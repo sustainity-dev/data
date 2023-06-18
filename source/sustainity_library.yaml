@@ -1,0 +1,94 @@
+- id: info:main
+  title: Welcome!
+  article: |
+    We are glad to see you at Sustainify!
+  
+    **Note that this is only a demo of the app we want to develop. None of the features is ready to use yet.**
+
+    The goal of this project is to aggregate all publicly available information about
+  
+     - sustainabilty of products
+     - social responsibility of companies, etc.
+
+    to have all of the information needed to make responsible consumer decisions in one place.
+
+    # Features
+
+    Here are the features we are going to implement:
+
+     - text search - search though our database of products, show available information, potential impacts and possible alternatives
+     - map search - (not implemented yet) search eco-friendly shops, (truelly) vegan restaurans, etc. in some area
+     - barcode search - (not implemented yet) scan a barcode to see info available infromation about a given product and potential alternatives.
+
+
+- id: info:for_producers
+  title: For producers
+  article: |
+    At Sustainity we analyze data from top product and company certifying organisations and show these data to user helping them to make better consumer decisions.
+
+    As a producer this is how YOU can help us to process the data to make sure your products are displayed correctly:
+    - make sure your company has entry on Wikidata with filled details like desctiption, website and various IDs (e.g. VAT number)
+    - make sure you or your products have sevaral certifications
+    - make sure the entry in your certifiers database is can be easily found on Wikidata (e.g. name is identical)
+
+    Do you products have certification that we don't include in our data yet? Let us know, and we will add.
+
+
+- id: cert:bcorp
+  title: B-Corporations
+  article: |
+    # Description
+  
+    According to [their website](https://www.bcorporation.net/en-us/certification):
+
+    > B Corp Certification is a designation that a business is meeting high standards of verified performance, accountability, and transparency on factors from employee benefits and charitable giving to supply chain practices and input materials. In order to achieve certification, a company must: 
+    >
+    >  - Demonstrate high social and environmental performance by achieving a B Impact Assessment score of 80 or above and passing our risk review. Multinational corporations must also meet baseline requirement standards. 
+    >
+    >  - Make a legal commitment by changing their corporate governance structure to be accountable to all stakeholders, not just shareholders, and achieve benefit corporation status if available in their jurisdiction. 
+    >
+    >  - Exhibit transparency by allowing information about their performance measured against B Lab’s standards to be publicly available on their B Corp profile on B Lab’s website.  
+  
+    # How we use their data
+  
+    B Corp certifies not individual products but whole companies.
+    The provide a list of present and past certifies corporations in a file in CSV format.
+    The only entry that allows us to reliably connect these data to other database is the corporations website link.
+    From the links we extract the domain and try to match it with entries in Wiki Data.
+
+    All products of matched companies have higher chances to be shown as alternative products in a our product view.
+
+
+- id: cert:eu_ecolabel
+  title: EU Ecolabel
+  article: |
+    # Description
+  
+
+- id: cert:tco
+  title: TCO
+  article: |
+    # Description
+  
+    According to [their website](https://tcocertified.com/criteria-overview/):
+
+    > TCO Certified is the tool of choice for any organization wanting to leverage their influence in the IT product supply chain in a credible way. Criteria are comprehensive and cover both environmental and social responsibility in the supply chain and throughout the IT product life cycle.
+
+    # How we use their data
+  
+    TCO certifies individual products.
+    Unfortunately in the data they provide, there is no entry that would allow us to reliably connect those entry to more broad databases like Wiki Data.
+
+    To use the TCO data to the full extend we should ether
+
+     - manually go through all the entries and try to match them with products (and possibly publish those it in Wiki Data)
+
+     - ask TCO to improve their data quality by suplementing it with data that could help us more reliably identify the products (e.g. product ID, links to official product websites, etc.)
+
+    But due to time constrains so far we only gatheres all certified companies and mark all products of those companies, so our "TCO badge" means "at least one product of this company was certified".- id: badge--tco
+
+
+- id: cert:fti
+  title: Fashion Transparency Index
+  article: |
+    # Description

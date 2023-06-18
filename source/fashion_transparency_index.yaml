@@ -1,0 +1,999 @@
+- name: Eddie Bauer
+  wiki: Q842174
+  score: 5
+
+- name: Costco
+  wiki: Q715583
+  score: 10
+
+- name: HEMA
+  wiki: Q903805
+  score: 20
+
+- name: ALDI SOUTH
+  wiki: Q41171672
+  score: 30
+
+- name: New Look
+  wiki: Q12063852
+  score: 40
+
+- name: GU
+  wiki: Q5512642
+  score: 49
+
+- name: C&A
+  wiki: Q701338
+  score: 59
+
+- name: H&M
+  wiki: Q188326
+  score: 66
+
+- name: OVS
+  wiki: Q2042514
+  score: 78
+
+- name: ANTA
+  wiki: Q4653060
+  score: 5
+
+- name: LL Bean
+  wiki: Q6131944
+  score: 10
+
+- name: Muji
+  wiki: Q116104243
+  score: 20
+
+- name: Chloé
+  wiki: Q1075391
+  score: 30
+
+- name: Superdry
+  wiki: Q1684445
+  score: 40
+
+- name: Levi Strauss & Co
+  wiki: Q127962
+  score: 49
+
+- name: Gucci
+  wiki: Q178516
+  score: 59
+
+- name: The North Face
+  wiki: Q152784
+  score: 66
+
+- name: Kmart Australia
+  wiki: Q6421682
+  score: 78
+
+- name: Buckle
+  wiki: Q4983306
+  score: 5
+
+- name: Tod's
+  wiki: Q1342350
+  score: 10
+
+- name: Paris
+  wiki: Q20812805
+  score: 20
+
+- name: Dr. Martens
+  wiki: Q1126126
+  score: 30
+
+- name: Burberry
+  wiki: Q390107
+  score: 40
+
+- name: Tesco
+  wiki: Q487494
+  score: 49
+
+- name: Puma
+  wiki: Q157064
+  score: 58
+
+- name: Timberland
+  wiki: Q1539185
+  score: 66
+
+- name: Target Australia
+  wiki: Q7685854
+  score: 78
+
+- name: Gerry Weber
+  wiki: Q873447
+  score: 5
+
+- name: United Arrows
+  wiki: Q10853153
+  score: 9
+
+- name: Kiabi
+  wiki: Q3196299
+  score: 20
+
+- name: GUESS
+  wiki: Q2470307
+  score: 30
+
+- name: Big W
+  wiki: Q4906646
+  score: 38
+
+- name: Uniqlo
+  wiki: Q26070
+  score: 49
+
+- name: Dressmann
+  wiki: Q3357081
+  score: 57
+
+- name: Vans
+  wiki: Q1135366
+  score: 65
+
+- name: Marni
+  wiki: Q3650853
+  score: 5
+
+- name: Carhartt
+  wiki: Q527877
+  score: 9
+
+- name: Aritzia
+  wiki: Q4791147
+  score: 20
+
+- name: Fjällräven
+  wiki: Q1422481
+  score: 30
+
+- name: Lacoste
+  wiki: Q309031
+  score: 38
+
+- name: Hugo Boss
+  wiki: Q491627
+  score: 49
+
+- name: Zeeman
+  wiki: Q184399
+  score: 57
+
+- name: Li-Ning
+  wiki: Q1272525
+  score: 9
+
+- name: Mizuno
+  wiki: Q1156731
+  score: 20
+
+- name: Lidl
+  wiki: Q151954
+  score: 30
+
+- name: Fruit of the Loom
+  wiki: Q765087
+  score: 38
+
+- name: Ralph Lauren
+  wiki: Q1641437
+  score: 49
+
+- name: Calvin Klein
+  wiki: Q1068628
+  score: 56
+
+- name: United Colors of Benetton
+  wiki: Q817139
+  score: 63
+
+- name: Merrell
+  wiki: Q1921997
+  score: 5
+
+- name: Valentino
+  wiki: Q649646
+  score: 5
+
+- name: The Children's Place
+  wiki: Q3520257
+  score: 9
+
+- name: Abercrombie & Fitch
+  wiki: Q319344
+  score: 19
+
+- name: Louis Vuitton
+  wiki: Q191485
+  score: 29
+
+- name: Russell Athletic
+  wiki: Q7381335
+  score: 38
+
+- name: Reebok
+  wiki: Q466183
+  score: 48
+
+- name: Esprit
+  wiki: Q532746
+  score: 56
+
+- name: Gildan
+  wiki: Q1524197
+  score: 62
+
+- name: Express
+  wiki: Q1384784
+  score: 5
+
+- name: Canada Goose
+  wiki: Q2988422
+  score: 9
+
+- name: Armani
+  wiki: Q635484
+  score: 19
+
+- name: CELINE
+  wiki: Q948531
+  score: 29
+
+- name: Next
+  wiki: Q246655
+  score: 37
+
+- name: Balenciaga
+  wiki: Q1530892
+  score: 46
+
+- name: Tommy Hilfiger
+  wiki: Q634881
+  score: 56
+
+- name: Cole Haan
+  wiki: Q4356504
+  score: 5
+
+- name: Takko
+  wiki: Q1371302
+  score: 9
+
+- name: Hollister Co.
+  wiki: Q1257477
+  score: 19
+
+- name: Dior
+  wiki: Q542767
+  score: 29
+
+- name: SAINT LAURENT
+  wiki: Q2282172
+  score: 46
+
+- name: UGG
+  wiki: Q1138480
+  score: 56
+
+- name: Triumph
+  wiki: Q671216
+  score: 5
+
+- name: Saks Fifth Avenue
+  wiki: Q2723882
+  score: 8
+
+- name: Monoprix
+  wiki: Q3321241
+  score: 19
+
+- name: Helly Hansen
+  wiki: Q1603114
+  score: 28
+
+- name: Columbia Sportswear
+  wiki: Q1112588
+  score: 37
+
+- name: Bottega Veneta
+  wiki: Q894874
+  score: 46
+
+- name: Calzedonia
+  wiki: Q1027874
+  score: 54
+
+- name: Dillard's
+  wiki: Q844805
+  score: 4
+
+- name: Famous Footwear
+  wiki: Q5433457
+  score: 8
+
+- name: Jack Wolfskin
+  wiki: Q536133
+  score: 18
+
+- name: boohoo
+  wiki: Q30688042
+  score: 28
+
+- name: Speedo
+  wiki: Q1425519
+  score: 45
+
+- name: Intimissimi
+  wiki: Q305404
+  score: 54
+
+- name: Truworths
+  wiki: Q24233998
+  score: 4
+
+- name: Carolina Herrera
+  wiki: Q29017366
+  score: 8
+
+- name: American Eagle
+  wiki: Q2842931
+  score: 18
+
+- name: Marc Jacobs
+  wiki: Q108190893
+  score: 28
+
+- name: Tchibo
+  wiki: Q564213
+  score: 45
+
+- name: Tezenis
+  wiki: Q28056374
+  score: 54
+
+- name: Tommy Bahama
+  wiki: Q3531299
+  score: 4
+
+- name: Sandro
+  wiki: Q3472022
+  score: 8
+
+- name: Foschini
+  wiki: Q116391780
+  score: 18
+
+- name: PrettyLittleThing
+  wiki: Q54817659
+  score: 28
+
+- name: Sainsbury's
+  wiki: Q152096
+  score: 45
+
+- name: Converse
+  wiki: Q319515
+  score: 53
+
+- name: Shimamura
+  wiki: Q7758173
+  score: 4
+
+- name: Foot Locker
+  wiki: Q63335
+  score: 8
+
+- name: Carter's
+  wiki: Q5047083
+  score: 18
+
+- name: Asda
+  wiki: Q297410
+  score: 27
+
+- name: Wrangler
+  wiki: Q1445358
+  score: 45
+
+- name: Jordan
+  wiki: null
+  score: 53
+
+- name: LC Waikiki
+  wiki: Q3205965
+  score: 4
+
+- name: Hudson's Bay
+  wiki: Q641129
+  score: 8
+
+- name: Otto
+  wiki: Q466688
+  score: 18
+
+- name: Hanes
+  wiki: Q3126743
+  score: 27
+
+- name: ASICS
+  wiki: Q327247
+  score: 44
+
+- name: Nike
+  wiki: Q483915
+  score: 53
+
+- name: Max
+  wiki: Q24939079
+  score: 4
+
+- name: Beanpole
+  wiki: Q20948605
+  score: 7
+
+- name: Victoria's Secret
+  wiki: Q332477
+  score: 18
+
+- name: Brooks Sport
+  wiki: Q670764
+  score: 27
+
+- name: G-Star RAW
+  wiki: Q1484081
+  score: 44
+
+- name: Fendi
+  wiki: Q926575
+  score: 53
+
+- name: Longchamp
+  wiki: Q1869471
+  score: 3
+
+- name: AJIO
+  wiki: Q28172367
+  score: 7
+
+- name: Joe Fresh
+  wiki: Q6209926
+  score: 18
+
+- name: Champion
+  wiki: Q2948688
+  score: 27
+
+- name: Zalando
+  wiki: Q136570
+  score: 44
+
+- name: Lululemon
+  wiki: Q6702957
+  score: 52
+
+- name: REVOLVE
+  wiki: null
+  score: 3
+
+- name: CAROLL
+  wiki: Q3561446
+  score: 7
+
+- name: Miu Miu
+  wiki: Q552230
+  score: 18
+
+- name: Morrisons
+  wiki: Q922344
+  score: 27
+
+- name: Banana Republic
+  wiki: Q806085
+  score: 44
+
+- name: adidas
+  wiki: Q12358242
+  score: 51
+
+- name: Aeropostale
+  wiki: Q794565
+  score: 3
+
+- name: Reliance Trends
+  wiki: Q908931
+  score: 7
+
+- name: Prada
+  wiki: Q193136
+  score: 18
+
+- name: Prisma
+  wiki: Q12047031
+  score: 27
+
+- name: Gap
+  wiki: Q420822
+  score: 44
+
+- name: ASOS
+  wiki: Q211951
+  score: 51
+
+- name: Deichmann
+  wiki: Q664543
+  score: 3
+
+- name: DSW
+  wiki: Q5206207
+  score: 7
+
+- name: Moncler
+  wiki: Q1548951
+  score: 17
+
+- name: River Island
+  wiki: Q2670328
+  score: 27
+
+- name: Old Navy
+  wiki: Q2735242
+  score: 44
+
+- name: Pepe Jeans
+  wiki: Q426992
+  score: 2
+
+- name: Billabong
+  wiki: Q862718
+  score: 7
+
+- name: Nordstrom
+  wiki: Q174310
+  score: 17
+
+- name: s.Oliver
+  wiki: Q265056
+  score: 27
+
+- name: Patagonia
+  wiki: Q1660552
+  score: 44
+
+- name: Jockey
+  wiki: Q534235
+  score: 2
+
+- name: Quiksilver
+  wiki: Q1329463
+  score: 7
+
+- name: TOPVALU COLLECTION
+  wiki: Q11286053
+  score: 17
+
+- name: COACH
+  wiki: Q727697
+  score: 27
+
+- name: Mango
+  wiki: Q136503
+  score: 44
+
+- name: SHEIN
+  wiki: Q107377209
+  score: 2
+
+- name: Roxy
+  wiki: Q3445719
+  score: 7
+
+- name: Desigual
+  wiki: Q83750
+  score: 17
+
+- name: Clarks
+  wiki: Q1095857
+  score: 26
+
+- name: Marks & Spencer
+  wiki: Q714491
+  score: 44
+
+- name: Romwe
+  wiki: Q39760061
+  score: 2
+
+- name: Chico's
+  wiki: Q5096393
+  score: 7
+
+- name: Disney
+  wiki: Q7414
+  score: 17
+
+- name: Bershka
+  wiki: Q827258
+  score: 43
+
+- name: Dolce & Gabbana
+  wiki: Q214480
+  score: 2
+
+- name: Diesel
+  wiki: Q158285
+  score: 7
+
+- name: REI
+  wiki: Q3414933
+  score: 17
+
+- name: Woolworths South Africa
+  wiki: Q8033997
+  score: 26
+
+- name: Ross Dress for Less
+  wiki: Q3442791
+  score: 7
+
+- name: Cortefiel
+  wiki: Q117351825
+  score: 17
+
+- name: BCBGMAXAZRIA
+  wiki: Q66116043
+  score: 1
+
+- name: Mammut
+  wiki: Q495318
+  score: 26
+
+- name: Massimo Dutti
+  wiki: Q788231
+  score: 43
+
+- name: Kmart
+  wiki: Q73205798
+  score: 7
+
+- name: Kaufland
+  wiki: Q685967
+  score: 16
+
+- name: DKNY
+  wiki: Q938773
+  score: 1
+
+- name: Corte Inglés
+  wiki: Q623133
+  score: 26
+
+- name: Pull&Bear
+  wiki: Q691029
+  score: 43
+
+- name: Skechers
+  wiki: Q2945643
+  score: 6
+
+- name: Reserved
+  wiki: Q21809354
+  score: 16
+
+- name: Van Heusen
+  wiki: Q67551865
+  score: 1
+
+- name: The Warehouse
+  wiki: Q28135370
+  score: 25
+
+- name: Stradivarius
+  wiki: Q3322945
+  score: 43
+
+- name: Bosideng
+  wiki: Q4947278
+  score: 6
+
+- name: Chanel
+  wiki: Q218115
+  score: 15
+
+- name: Nine West
+  wiki: Q7038456
+  score: 1
+
+- name: Bally
+  wiki: Q688195
+  score: 25
+
+- name: Zara
+  wiki: Q147662
+  score: 43
+
+- name: Furla
+  wiki: Q3073195
+  score: 6
+
+- name: Brunello Cucinelli
+  wiki: Q3645582
+  score: 14
+
+- name: celio
+  wiki: Q2672003
+  score: 1
+
+- name: Kate Spade
+  wiki: Q6375797
+  score: 25
+
+- name: Lindex
+  wiki: Q1786717
+  score: 42
+
+- name: Sports Direct
+  wiki: Q7579661
+  score: 6
+
+- name: Kohl's
+  wiki: Q967265
+  score: 14
+
+- name: Tory Burch
+  wiki: Q19988222
+  score: 1
+
+- name: Carrefour
+  wiki: Q3117359
+  score: 25
+
+- name: Tom Tailor
+  wiki: Q571206
+  score: 42
+
+- name: Bloomingdale's
+  wiki: Q283383
+  score: 6
+
+- name: Fanatics
+  wiki: Q18150640
+  score: 14
+
+- name: Jil Sander
+  wiki: Q17101930
+  score: 0
+
+- name: Matalan
+  wiki: Q12061509
+  score: 25
+
+- name: New Balance
+  wiki: Q742988
+  score: 41
+
+- name: Fashion Nova
+  wiki: Q65090803
+  score: 0
+
+- name: Macy's
+  wiki: Q629269
+  score: 6
+
+- name: Steve Madden
+  wiki: Q25352034
+  score: 14
+
+- name: Dick's Sporting Goods
+  wiki: Q5272601
+  score: 24
+
+- name: New Yorker
+  wiki: Q706421
+  score: 0
+
+- name: ALDO
+  wiki: Q2832297
+  score: 14
+
+- name: Walmart
+  wiki: Q483551
+  score: 24
+
+- name: Max Mara
+  wiki: Q1151774
+  score: 0
+
+- name: Anthropologie
+  wiki: Q4773903
+  score: 14
+
+- name: Salvatore Ferragamo
+  wiki: Q3946053
+  score: 24
+
+- name: Semir
+  wiki: Q19840703
+  score: 0
+
+- name: Free People
+  wiki: Q5499945
+  score: 14
+
+- name: Ted Baker
+  wiki: Q2913458
+  score: 24
+
+- name: Tom Ford
+  wiki: Q105476592
+  score: 0
+
+- name: Urban Outfitters
+  wiki: Q3552193
+  score: 14
+
+- name: JD Sports
+  wiki: Q6108019
+  score: 23
+
+- name: Heilan Home
+  wiki: Q5699411
+  score: 0
+
+- name: Fossil
+  wiki: Q356212
+  score: 14
+
+- name: Kathmandu
+  wiki: Q1736294
+  score: 23
+
+- name: Belle
+  wiki: Q815847
+  score: 0
+
+- name: Ito-Yokado
+  wiki: Q3088746
+  score: 13
+
+- name: Under Armour
+  wiki: Q2031485
+  score: 22
+
+- name: Big Bazaar - ffb
+  wiki: Q3631008
+  score: 0
+
+- name: Michael Kors
+  wiki: Q19572998
+  score: 13
+
+- name: Cotton On
+  wiki: Q5175717
+  score: 22
+
+- name: Elie Tahari
+  wiki: Q5360729
+  score: 0
+
+- name: Versace
+  wiki: Q696376
+  score: 13
+
+- name: Pimkie
+  wiki: Q1758066
+  score: 22
+
+- name: Justfab
+  wiki: Q6315705
+  score: 0
+
+- name: Lands' End
+  wiki: Q839555
+  score: 13
+
+- name: Very
+  wiki: Q7501116
+  score: 22
+
+- name: K-Way
+  wiki: Q2820820
+  score: 0
+
+- name: MRP
+  wiki: Q6929120
+  score: 13
+
+- name: Decathlon
+  wiki: Q509349
+  score: 21
+
+- name: KOOVS
+  wiki: null
+  score: 0
+
+- name: Falabella
+  wiki: Q5135229
+  score: 13
+
+- name: Metersbonwe
+  wiki: Q6823520
+  score: 0
+
+- name: Burlington
+  wiki: Q4999220
+  score: 13
+
+- name: Mexx
+  wiki: Q1837290
+  score: 0
+
+- name: TJ Maxx
+  wiki: Q10860683
+  score: 13
+
+- name: Splash
+  wiki: Q7578363
+  score: 0
+
+- name: Fila
+  wiki: Q482539
+  score: 12
+
+- name: Youngor
+  wiki: Q1112652
+  score: 0
+
+- name: KiK
+  wiki: Q883965
+  score: 12
+
+- name: La Redoute
+  wiki: Q1540740
+  score: 11
+
+- name: Ermenegildo Zegna
+  wiki: Q1355904
+  score: 37
+
+- name: Jack & Jones
+  wiki: Q6077665
+  score: 36
+
+- name: Target
+  wiki: Q1046951
+  score: 36
+
+- name: Bonprix
+  wiki: Q892852
+  score: 36
+
+- name: Vero Moda
+  wiki: Q640418
+  score: 36
+
+- name: Primark
+  wiki: Q137023
+  score: 35
+
+- name: John Lewis
+  wiki: Q1918981
+  score: 34
+
+- name: ALDI Nord
+  wiki: Q41171373
+  score: 31
+
+- name: Amazon
+  wiki: Q3884
+  score: 31
+
+- name: Hermès
+  wiki: Q843887
+  score: 31
