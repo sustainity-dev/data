@@ -8,13 +8,13 @@
     The goal of this project is to aggregate all publicly available information about
   
      - sustainabilty of products
-     - social responsibility of companies, etc.
+     - level of corporate social responsibility of companies
 
     to have all of the information needed to make responsible consumer decisions in one place.
 
     # Features
 
-    Here are the features we are going to implement:
+    These are the features to be implemented:
 
      - text search - search though our database of products, show available information, potential impacts and possible alternatives
      - map search - (not implemented yet) search eco-friendly shops, (truelly) vegan restaurans, etc. in some area
@@ -24,15 +24,13 @@
 - id: info:for_producers
   title: For producers
   article: |
-    At Sustainity we analyze data from top product and company certifying organisations and show these data to user helping them to make better consumer decisions.
+    At Sustainity, we analyze data from top products and company certifying organisations and show transparent data to users, in order to help them make better consumer decisions.
 
     As a producer this is how YOU can help us to process the data to make sure your products are displayed correctly:
-    - make sure your company has entry on Wikidata with filled details like desctiption, website and various IDs (e.g. VAT number)
-    - make sure you or your products have sevaral certifications
-    - make sure the entry in your certifiers database is can be easily found on Wikidata (e.g. name is identical)
+    - make sure your company has entry on Wikidata with precise details such as descriptions, websites, IDs (e.g. VAT number, GTIN, EAN) 
+    - make sure you or your products have several certifications
 
-    Do you products have certification that we don't include in our data yet? Let us know, and we will add.
-
+    Are we missing any certifications of your products in our data? Let us know!
 
 - id: cert:bcorp
   title: B-Corporations
@@ -64,31 +62,44 @@
   article: |
     # Description
   
+    The EU Ecolabel is a voluntary scheme promoting goods and services that demonstrate environmental excellence, based on standardized criteria. Any products that have been awarded the EU Ecolabel meet a set of high environmental and performance standards.
+
+    Here are three key points to know about the EU Ecolabel:
+     - It is a world-renowned, multi-criteria ecolabel that tackles the main environmental impacts of products along their full lifecycle.
+     - It is third-party verified, which means independent experts are responsible for checking compliance with the EU Ecolabel criteria.
+     - It encourages higher environmental performance in all sectors and supports products and services that have a lower environmental impact and contribute to sustainable development along their life cycle.
 
 - id: cert:tco
   title: TCO
   article: |
     # Description
   
-    According to [their website](https://tcocertified.com/criteria-overview/):
-
-    > TCO Certified is the tool of choice for any organization wanting to leverage their influence in the IT product supply chain in a credible way. Criteria are comprehensive and cover both environmental and social responsibility in the supply chain and throughout the IT product life cycle.
+    TCO Certified is a sustainability certification for IT products that includes a comprehensive system of up-to-date criteria, independent verification, and a structured system for continuous improvement to drive real and lasting change. Here are three key points to know about TCO Certified:
+    - TCO Certified is the world's leading sustainability certification for IT products, designed to drive social and environmental responsibility in the IT industry.
+    - It includes comprehensive environmental and social criteria with direct impact, and a structured system for continuous improvements that guides the industry to more sustainable ways of working.
+    - TCO Certified is a third-party certification independent of the IT industry and buyers, and it meets the requirements of ISO 14024 Ecolabel Type 1 and has been approved by the Global Ecolabelling Network.
 
     # How we use their data
   
     TCO certifies individual products.
     Unfortunately in the data they provide, there is no entry that would allow us to reliably connect those entry to more broad databases like Wiki Data.
 
-    To use the TCO data to the full extend we should ether
+    To use the TCO data to the full extent, we should either
 
-     - manually go through all the entries and try to match them with products (and possibly publish those it in Wiki Data)
+     - manually go through all the entries and try to match them with products (and possibly publish those it in Wiki Data), or
 
      - ask TCO to improve their data quality by suplementing it with data that could help us more reliably identify the products (e.g. product ID, links to official product websites, etc.)
 
-    But due to time constrains so far we only gatheres all certified companies and mark all products of those companies, so our "TCO badge" means "at least one product of this company was certified".- id: badge--tco
+    Due to time constraints, so far we only gathered all certified companies and mark all products of those companies, so our "TCO badge" means "at least one product of this company was certified".
 
 
 - id: cert:fti
   title: Fashion Transparency Index
   article: |
     # Description
+
+    The Fashion Transparency Index is a tool created by Fashion Revolution to incentivize the world's largest fashion brands to be more transparent about their social and environmental efforts. The Index comprises 246 indicators covering a wide range of social and environmental topics such as animal welfare, biodiversity, climate, due diligence, forced labor, freedom of association, gender equality, hazardous chemicals, living wages, purchasing practices, supplier disclosure, waste and recycling, and working conditions. Here are three key points to know about the Fashion Transparency Index:
+
+    - It uses a ratings methodology, which benchmarks companies' publicly facing information against basic best practice in supply chain transparency.
+    - The Index reviews 250 brands with an annual turnover of at least $400 million on the information they publicly disclose about sustainability, across 246 categories.
+    - The Index is one tool that Fashion Revolution has developed to help bring about systemic change in the industry, and it encourages brands to disclose more information about their policies, practices, and impacts.
