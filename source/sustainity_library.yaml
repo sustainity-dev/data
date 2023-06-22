@@ -46,13 +46,21 @@
     >  - Make a legal commitment by changing their corporate governance structure to be accountable to all stakeholders, not just shareholders, and achieve benefit corporation status if available in their jurisdiction. 
     >
     >  - Exhibit transparency by allowing information about their performance measured against B Lab’s standards to be publicly available on their B Corp profile on B Lab’s website.  
+
+    # Data sources
+
+    B Corp provides a nice web-based user interface to browse certified companies.
+
+    Digging thought the FAQ allows us to find
+    [a link to Data.World](https://data.world/blab/b-corp-impact-data)
+    where they provide a list of present and past certified corporations in a file in CSV format.
+    The data set is updated several times per year.
   
     # How we use their data
   
     B Corp certifies not individual products but whole companies.
-    The provide a list of present and past certifies corporations in a file in CSV format.
-    The only entry that allows us to reliably connect these data to other database is the corporations website link.
-    From the links we extract the domain and try to match it with entries in Wiki Data.
+    The only entry in their data set that allows us to reliably connect it to other databases is the corporations website link.
+    From the links we extract the domain and try to match it with entries in Wikidata.
 
     All products of matched companies have higher chances to be shown as alternative products in a our product view.
 
@@ -69,6 +77,12 @@
      - It is third-party verified, which means independent experts are responsible for checking compliance with the EU Ecolabel criteria.
      - It encourages higher environmental performance in all sectors and supports products and services that have a lower environmental impact and contribute to sustainable development along their life cycle.
 
+    # Data sources
+
+    Products certified by EU Ecolabel can be viewed in their [product catalogue](https://environment.ec.europa.eu/topics/circular-economy/eu-ecolabel-home/consumers_en).
+
+    Data in machine-redable format are available on [European Comissions data portal](https://data.europa.eu/data/datasets/eu-ecolabel-products).
+
 - id: cert:tco
   title: TCO
   article: |
@@ -78,6 +92,13 @@
     - TCO Certified is the world's leading sustainability certification for IT products, designed to drive social and environmental responsibility in the IT industry.
     - It includes comprehensive environmental and social criteria with direct impact, and a structured system for continuous improvements that guides the industry to more sustainable ways of working.
     - TCO Certified is a third-party certification independent of the IT industry and buyers, and it meets the requirements of ISO 14024 Ecolabel Type 1 and has been approved by the Global Ecolabelling Network.
+
+    # Data sources
+
+    Products certified by TCO can be browsed in their [Product Finder](https://tcocertified.com/product-finder/).
+    Unfortunately part of the data requires payed access.
+
+    Unfortunately we were not able to find their data in machine-readable format anywhere on their webpage.
 
     # How we use their data
   
@@ -92,7 +113,6 @@
 
     Due to time constraints, so far we only gathered all certified companies and mark all products of those companies, so our "TCO badge" means "at least one product of this company was certified".
 
-
 - id: cert:fti
   title: Fashion Transparency Index
   article: |
@@ -103,3 +123,10 @@
     - It uses a ratings methodology, which benchmarks companies' publicly facing information against basic best practice in supply chain transparency.
     - The Index reviews 250 brands with an annual turnover of at least $400 million on the information they publicly disclose about sustainability, across 246 categories.
     - The Index is one tool that Fashion Revolution has developed to help bring about systemic change in the industry, and it encourages brands to disclose more information about their policies, practices, and impacts.
+
+    # Data sources
+
+    Fashion Revolution prepares the Fashion Transparency Index report each year.
+    The latest and historical editions are available on [their website](https://www.fashionrevolution.org/about/transparency/).
+
+    Unfortunately we were not able to find their data in machine-readable format anywhere on their webpage.
