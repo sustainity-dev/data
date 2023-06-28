@@ -1,132 +1,31 @@
 - id: info:main
   title: Welcome!
-  article: |
-    We are glad to see you at Sustainify!
-  
-    **Note that this is only a demo of the app we want to develop. None of the features is ready to use yet.**
-
-    The goal of this project is to aggregate all publicly available information about
-  
-     - sustainabilty of products
-     - level of corporate social responsibility of companies
-
-    to have all of the information needed to make responsible consumer decisions in one place.
-
-    # Features
-
-    These are the features to be implemented:
-
-     - text search - search though our database of products, show available information, potential impacts and possible alternatives
-     - map search - (not implemented yet) search eco-friendly shops, (truelly) vegan restaurans, etc. in some area
-     - barcode search - (not implemented yet) scan a barcode to see info available infromation about a given product and potential alternatives.
-
+  summary: The intro page
 
 - id: info:for_producers
   title: For producers
-  article: |
-    At Sustainity, we analyze data from top products and company certifying organisations and show transparent data to users, in order to help them make better consumer decisions.
+  summary: Tips and advices for producers
 
-    As a producer this is how YOU can help us to process the data to make sure your products are displayed correctly:
-    - make sure your company has entry on Wikidata with precise details such as descriptions, websites, IDs (e.g. VAT number, GTIN, EAN) 
-    - make sure you or your products have several certifications
-
-    Are we missing any certifications of your products in our data? Let us know!
+- id: info:faq
+  title: FAQ
+  summary: Frequently asked questions
 
 - id: cert:bcorp
   title: B-Corporations
-  article: |
-    # Description
-  
-    According to [their website](https://www.bcorporation.net/en-us/certification):
-
-    > B Corp Certification is a designation that a business is meeting high standards of verified performance, accountability, and transparency on factors from employee benefits and charitable giving to supply chain practices and input materials. In order to achieve certification, a company must: 
-    >
-    >  - Demonstrate high social and environmental performance by achieving a B Impact Assessment score of 80 or above and passing our risk review. Multinational corporations must also meet baseline requirement standards. 
-    >
-    >  - Make a legal commitment by changing their corporate governance structure to be accountable to all stakeholders, not just shareholders, and achieve benefit corporation status if available in their jurisdiction. 
-    >
-    >  - Exhibit transparency by allowing information about their performance measured against B Lab’s standards to be publicly available on their B Corp profile on B Lab’s website.  
-
-    # Data sources
-
-    B Corp provides a nice web-based user interface to browse certified companies.
-
-    Digging thought the FAQ allows us to find
-    [a link to Data.World](https://data.world/blab/b-corp-impact-data)
-    where they provide a list of present and past certified corporations in a file in CSV format.
-    The data set is updated several times per year.
-  
-    # How we use their data
-  
-    B Corp certifies not individual products but whole companies.
-    The only entry in their data set that allows us to reliably connect it to other databases is the corporations website link.
-    From the links we extract the domain and try to match it with entries in Wikidata.
-
-    All products of matched companies have higher chances to be shown as alternative products in a our product view.
-
+  summary: About B-Corporations certification
 
 - id: cert:eu_ecolabel
   title: EU Ecolabel
-  article: |
-    # Description
-  
-    The EU Ecolabel is a voluntary scheme promoting goods and services that demonstrate environmental excellence, based on standardized criteria. Any products that have been awarded the EU Ecolabel meet a set of high environmental and performance standards.
-
-    Here are three key points to know about the EU Ecolabel:
-     - It is a world-renowned, multi-criteria ecolabel that tackles the main environmental impacts of products along their full lifecycle.
-     - It is third-party verified, which means independent experts are responsible for checking compliance with the EU Ecolabel criteria.
-     - It encourages higher environmental performance in all sectors and supports products and services that have a lower environmental impact and contribute to sustainable development along their life cycle.
-
-    # Data sources
-
-    Products certified by EU Ecolabel can be viewed in their [product catalogue](https://environment.ec.europa.eu/topics/circular-economy/eu-ecolabel-home/consumers_en).
-
-    Data in machine-redable format are available on [European Comissions data portal](https://data.europa.eu/data/datasets/eu-ecolabel-products).
+  summary: About EU Ecolabel certification
 
 - id: cert:tco
   title: TCO
-  article: |
-    # Description
-  
-    TCO Certified is a sustainability certification for IT products that includes a comprehensive system of up-to-date criteria, independent verification, and a structured system for continuous improvement to drive real and lasting change. Here are three key points to know about TCO Certified:
-    - TCO Certified is the world's leading sustainability certification for IT products, designed to drive social and environmental responsibility in the IT industry.
-    - It includes comprehensive environmental and social criteria with direct impact, and a structured system for continuous improvements that guides the industry to more sustainable ways of working.
-    - TCO Certified is a third-party certification independent of the IT industry and buyers, and it meets the requirements of ISO 14024 Ecolabel Type 1 and has been approved by the Global Ecolabelling Network.
-
-    # Data sources
-
-    Products certified by TCO can be browsed in their [Product Finder](https://tcocertified.com/product-finder/).
-    Unfortunately part of the data requires payed access.
-
-    Unfortunately we were not able to find their data in machine-readable format anywhere on their webpage.
-
-    # How we use their data
-  
-    TCO certifies individual products.
-    Unfortunately in the data they provide, there is no entry that would allow us to reliably connect those entry to more broad databases like Wiki Data.
-
-    To use the TCO data to the full extent, we should either
-
-     - manually go through all the entries and try to match them with products (and possibly publish those it in Wiki Data), or
-
-     - ask TCO to improve their data quality by suplementing it with data that could help us more reliably identify the products (e.g. product ID, links to official product websites, etc.)
-
-    Due to time constraints, so far we only gathered all certified companies and mark all products of those companies, so our "TCO badge" means "at least one product of this company was certified".
+  summary: About TCO certification
 
 - id: cert:fti
   title: Fashion Transparency Index
-  article: |
-    # Description
+  summary: About the Fashion Transparency Index
 
-    The Fashion Transparency Index is a tool created by Fashion Revolution to incentivize the world's largest fashion brands to be more transparent about their social and environmental efforts. The Index comprises 246 indicators covering a wide range of social and environmental topics such as animal welfare, biodiversity, climate, due diligence, forced labor, freedom of association, gender equality, hazardous chemicals, living wages, purchasing practices, supplier disclosure, waste and recycling, and working conditions. Here are three key points to know about the Fashion Transparency Index:
-
-    - It uses a ratings methodology, which benchmarks companies' publicly facing information against basic best practice in supply chain transparency.
-    - The Index reviews 250 brands with an annual turnover of at least $400 million on the information they publicly disclose about sustainability, across 246 categories.
-    - The Index is one tool that Fashion Revolution has developed to help bring about systemic change in the industry, and it encourages brands to disclose more information about their policies, practices, and impacts.
-
-    # Data sources
-
-    Fashion Revolution prepares the Fashion Transparency Index report each year.
-    The latest and historical editions are available on [their website](https://www.fashionrevolution.org/about/transparency/).
-
-    Unfortunately we were not able to find their data in machine-readable format anywhere on their webpage.
+- id: other:not_found
+  title: Not found
+  summary:
