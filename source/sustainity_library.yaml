@@ -10,6 +10,14 @@
   title: FAQ
   summary: Frequently asked questions
 
+- id: data:wiki
+  title: Wikidata
+  summary: Wikidata acts as central storage for the structured data of its Wikimedia sister projects including Wikipedia, Wikivoyage, Wiktionary, Wikisource, and others.
+
+- id: data:open_food_facts
+  title: Open Food Facts
+  summary: Open Food Facts is a food products database made by everyone, for everyone.
+
 - id: cert:bcorp
   title: B-Corporations
   summary: About B-Corporations certification
