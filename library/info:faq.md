@@ -2,7 +2,7 @@
 
 There are many ways you can help:
 
-First, if you found some bug or problem with our data or you have an idea for a new feature, let us know in [Github issues](https://github.com/sustainity-dev/issues/issues).
+First, if you found some bug or problem with our data or you have an idea for a new feature, let us know on [our Discord server](https://discord.com/invite/k2AwJWqur3).
 
 Secondly, if you are a programmer you can help directly by contrubuting to [our code](https://github.com/sustainity-dev/). All our software is open-source.
 
@@ -25,3 +25,15 @@ If some product is promoted or demoted, we have to know exactly why (e.i. becaus
 XIA (Explainable X) is a field of active research.
 
 That said, we may use AI for some supportive tasks and data analysis, and maybe use it in the future in the main algorithm if we build data set big enough to train an AI on it and reliable XAI methods are developed. 
+
+# What are your costs to run this service/app?
+
+We don't hire anyone. All you can see here is a volunteer work, so all our costs is what we pay for servers to run this serivce on.
+
+Currently we have the smallest possible non-scalable deployment in one data center in Europe. This means that
+ - for everyone outside of Europe the website works slowly
+ - the website is down when we release a new version
+ - in case we experience higher traffic, the website will likely go down.
+
+We pay for this deployment around 25 euro per month. The smallest proper scalable deployment in one data center will cost around 150 euro per month per data center.
+ 
