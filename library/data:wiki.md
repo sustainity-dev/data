@@ -28,17 +28,17 @@ It's worth to note that even a compressed dump still contains more than 100 GB o
 
 While Wikidata contains information about many companies and products,
 it's far not enough to infer any sustainability or social responsibility information. 
-We use it mainly as a suplementary source of information to provide some description and pictures,
+We use it mainly as a supplementary source of information to provide some descriptions and pictures,
 and combine those with data from organisations certifing products and companies.
 
 Combination of data from Wikidata and different sources is quite cumbersome.
-Ideally we should combine them only if both the certifier data and Wikidata contain some unique identifier,
+Ideally we should combine them only if both the certifier data and Wikidata contain some unique identifiers,
 e.g. VAT number or internet domain.
-But frequetly they are either not available in Wikidata or certifier does not provide them,
-so not many connections can be found this way.
+However, they are either not available in Wikidata or are not provided by the certifiers in most cases.
+Therefore, not many connections can be made in this way.
 To find more matches we also try looking at company names, but that's not a reliable method,
 because such names are not unique.
-I the future we plan to
+I the future we plan to:
  - suplement Wikidata with information that we found is missing
  - actively ask vertifiers to include identifiers in their data
  - actively ask companies to fill Wikidata with information about their products.

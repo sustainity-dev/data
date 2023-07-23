@@ -39,5 +39,5 @@ containing their barcodes (for easy identification), pictures, producers, brands
 
 We try to match the companies from Open Food Facts to companies from Wikidata,
 but since all we have is just the name, that's not a reliable method.
-Due to amount it the data we cannot match Open Food Facts products to the Wikidata products,
+Due to large amount of data, we cannot match Open Food Facts products to the Wikidata products,
 so we simply copy them to our database.
