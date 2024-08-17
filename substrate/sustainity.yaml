@@ -1,0 +1,63 @@
+authors:
+  - "Sustainity Development Team"
+creation_timestamp: "2025-05-03T22:00:00Z"
+description: "Data prepared by the Sustainity Development Team"
+title: ""
+variant: cataloger
+version: "0.0.0"
+  
+---
+
+cataloger:
+  description: "Data prepared by the Sustainity Team"
+  id: sustainity
+  name: Sustainity
+  variant: database
+  website: "https://www.sustainity.dev/"
+
+producers:
+- id: fairphone
+  ids:
+    domains:
+    - fairphone.com
+    wiki:
+    - '5019402'
+  names:
+  - Fairphone
+
+products:
+- id: fairphone-5
+  ids:
+    ean:
+    - '8718819372271'
+    - '8718819372288'
+    - '8718819372448'
+    - '8718819372295'
+    - '8718819372431'
+    gtin: []
+    wiki:
+    - '122070914'
+  names:
+  - Fairphone 5
+  categorisation:
+    categories:
+    - electronics/communications/telephony/mobile_phones
+  origins:
+    producer_ids:
+    - fairphone
+  shopping:
+  - description: 8GB, 256GB, Transparent
+    id: B0CH3QTV43
+    shop: amazon
+  - description: 6GB, 128GB, Black
+    id: B0DJP6NNL8
+    shop: amazon
+  - description: 8GB, 256GB, Black
+    id: B0CH3Q8V2F
+    shop: amazon
+  - description: 8GB, 256GB, Blue
+    id: B0CH3N3Y3D
+    shop: amazon
+  - description: All models
+    id: fairphone-5
+    shop: fairphone
