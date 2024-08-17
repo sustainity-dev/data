@@ -1,0 +1,97 @@
+authors:
+  - "Sustainity Development Team"
+creation_timestamp: "2025-05-11T22:00:00Z"
+description: "Data prepared by the Sustainity Development Team on behalf of the Simple Environmentalist"
+title: ""
+variant: reviewer
+version: "0.0.0"
+
+---
+
+reviewer:
+  id: simple_environmentalist
+  name: Simple Environmentalist
+  description: ""
+  website: "https://www.thesimpleenvironmentalist.com/blog-1"
+
+producers:
+
+- id: aventon
+  ids:
+    domains:
+    - aventon.com
+    wiki:
+    - '130564685'
+  names:
+  - Aventon
+  reports:
+  - title: "My favorite zero waste brands and zero waste swaps I recommend for 2024"
+    url: "https://www.youtube.com/watch?v=Wx2ANP44bqQ"
+
+- id: whisperbidets
+  ids:
+    domains:
+    - whisperbidets.com
+  names:
+  - Whisper Bidets
+
+- id: allbirds
+  ids:
+    domains:
+    - allbirds.com
+    wiki:
+    - '30591057'
+    - '127423666'
+  names:
+  - Allbirds
+
+- id: modibody
+  ids:
+    domains:
+    - modibodi.com
+  names:
+  - Modibodi
+  reports:
+  - title: "My favorite zero waste brands and zero waste swaps I recommend for 2024"
+    url: "https://www.youtube.com/watch?v=Wx2ANP44bqQ"
+
+- id: meliora
+  ids:
+    domains:
+    - meliorameansbetter.com
+  names:
+  - Meliora
+
+- id: leafshave
+  ids:
+    domains:
+    - leafshave.com
+  names:
+  - Leaf Shave
+
+- id: axiology
+  ids:
+    domains:
+    - axiologybeauty.com
+  names:
+  - Axiology
+
+- id: plaineproducts
+  ids:
+    domains:
+    - plaineproducts.com
+  names:
+  - Plaine Products
+  reports:
+  - title: "My favorite zero waste brands and zero waste swaps I recommend for 2024"
+    url: "https://www.youtube.com/watch?v=Wx2ANP44bqQ"
+
+- id: earthhero
+  ids:
+    domains:
+    - earthhero.com
+  names:
+  - Earth Hero
+
+products: []
+
