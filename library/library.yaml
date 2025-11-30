@@ -1,46 +1,27 @@
-- id: info:main
-  title: Welcome!
-  summary: The intro page
-
-- id: info:for_producers
-  title: For producers
-  summary: Tips and advices for producers
-
-- id: info:faq
-  title: FAQ
-  summary: Frequently asked questions
-
-- id: info:greenwashing
-  title: Greenwashing
-  summary: What is greenwashing
-  links:
-    - title: How to spot greenwashing?
-      link: https://www.youtube.com/watch?v=HOxMd_7DnmY
-
-- id: data:wiki
+- id: wiki
   title: Wikidata
   summary: Wikidata acts as central storage for the structured data of its Wikimedia sister projects including Wikipedia, Wikivoyage, Wiktionary, Wikisource, and others.
 
-- id: data:open_food_facts
+- id: open_food_facts
   title: Open Food Facts
   summary: Open Food Facts is a food products database made by everyone, for everyone.
 
-- id: cert:bcorp
+- id: open_food_repo
+  title: Open Food Repo
+  summary: The Open Food Repo is an independent and community-driven open database for barcoded food products.
+
+- id: bcorp
   title: B-Corporations
   summary: About B-Corporations certification
 
-- id: cert:eu_ecolabel
+- id: eu_ecolabel
   title: EU Ecolabel
   summary: About EU Ecolabel certification
 
-- id: cert:tco
+- id: tco
   title: TCO
   summary: About TCO certification
 
-- id: cert:fti
+- id: fti
   title: Fashion Transparency Index
   summary: About the Fashion Transparency Index
-
-- id: other:not_found
-  title: Not found
-  summary:

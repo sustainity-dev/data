@@ -1,6 +1,7 @@
 source/
 origin/
-cache*/
-substrate*/
-target*/
+cache-*/
+coagulate-*/
+substrate-*/
+target-*/
 

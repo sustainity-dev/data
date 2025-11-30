@@ -38,7 +38,7 @@ However, they are either not available in Wikidata or are not provided by the ce
 Therefore, not many connections can be made in this way.
 To find more matches we also try looking at company names, but that's not a reliable method,
 because such names are not unique.
-I the future we plan to:
+In the future we plan to:
  - suplement Wikidata with information that we found is missing
  - actively ask vertifiers to include identifiers in their data
  - actively ask companies to fill Wikidata with information about their products.

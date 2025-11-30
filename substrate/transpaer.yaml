@@ -1,7 +1,7 @@
 authors:
-  - "Sustainity Development Team"
+  - "Transpaer Development Team"
 creation_timestamp: "2025-05-03T22:00:00Z"
-description: "Data prepared by the Sustainity Development Team"
+description: "Data prepared by the Transpaer Development Team"
 title: ""
 variant: cataloger
 version: "0.0.0"
@@ -9,11 +9,11 @@ version: "0.0.0"
 ---
 
 cataloger:
-  description: "Data prepared by the Sustainity Team"
-  id: sustainity
-  name: Sustainity
+  description: "Data prepared by the Transpaer Team"
+  id: transpaer
+  name: Transpaer
   variant: database
-  website: "https://www.sustainity.dev/"
+  website: "https://www.transpaer.app/"
 
 producers:
 - id: fairphone

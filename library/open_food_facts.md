@@ -37,7 +37,8 @@ Open Food Facts provide their data exports in various formats
 Open Food Facts is probably the best openly available source of data about products (mainly food)
 containing their barcodes (for easy identification), pictures, producers, brands, categories, etc.
 
-We try to match the companies from Open Food Facts to companies from Wikidata,
-but since all we have is just the name, that's not a reliable method.
-Due to large amount of data, we cannot match Open Food Facts products to the Wikidata products,
-so we simply copy them to our database.
+Most important info that Open Food Facts database contains are product barcodes, country of origins,
+and the producer name. Unfortunately Open Food Facts apparenlty doesn't validate the data its
+users enter. For example barcodes are frequently invalid, and country names and category name can be anything -
+abreviations, names in various languages, and typos are accepted. There are around 30000 country names
+and almost 50000 categories. Assigning those words to real countries and categories is a challenge.
