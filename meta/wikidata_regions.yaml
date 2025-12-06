@@ -1,590 +1,605 @@
 countries:
+- tag: Q213
+  regions: !list
+  - CZE
+  count: 34548
 - tag: Q30
   description: United States
   regions: !list
   - USA
-  count: 33187
-- tag: Q213
-  regions: !list
-  - CZE
-  count: 32876
+  count: 34237
 - tag: Q17
   description: Japan
   regions: !list
   - JPN
-  count: 27130
+  count: 29309
 - tag: Q183
   description: Germany
   regions: !list
   - DEU
-  count: 21543
+  count: 22271
 - tag: Q145
   description: United Kingdom
   regions: !list
   - GBR
-  count: 12963
-- tag: Q142
-  description: France
-  regions: !list
-  - FRA
-  count: 7083
+  count: 13502
 - tag: Q55
   description: Netherlands
   regions: !list
   - NLD
-  count: 6996
+  count: 8480
+- tag: Q142
+  description: France
+  regions: !list
+  - FRA
+  count: 7747
 - tag: Q29
   description: Spain
   regions: !list
   - ESP
-  count: 6816
+  count: 7075
 - tag: Q38
   description: Italy
   regions: !list
   - ITA
-  count: 6322
+  count: 6467
 - tag: Q34
   description: Sweden
   regions: !list
   - SWE
-  count: 5735
+  count: 5832
 - tag: Q20
   description: Norway
   regions: !list
   - NOR
-  count: 5003
-- tag: Q214
-  description: Slovakia
-  regions: !list
-  - SVK
-  count: 4615
+  count: 5081
 - tag: Q148
   description: People's Republic of China
   regions: !list
   - CHN
-  count: 4471
+  count: 4759
+- tag: Q214
+  description: Slovakia
+  regions: !list
+  - SVK
+  count: 4735
 - tag: Q16
   description: Canada
   regions: !list
   - CAN
-  count: 4374
+  count: 4546
 - tag: Q252
-  count: 4097
+  count: 4137
 - tag: Q155
   regions: !list
   - BRA
-  count: 4063
+  count: 4114
 - tag: Q36
   description: Poland
   regions: !list
   - POL
-  count: 3823
+  count: 3928
+- tag: Q33
+  regions: !list
+  - FIN
+  count: 3802
 - tag: Q884
   description: South Korea
   regions: !list
   - KOR
-  count: 3635
-- tag: Q33
-  regions: !list
-  - FIN
-  count: 3605
+  count: 3720
 - tag: Q40
   regions: !list
   - AUT
-  count: 3088
+  count: 3142
 - tag: Q159
   description: Russia
   regions: !list
   - RUS
-  count: 2790
+  count: 2885
 - tag: Q31
   regions: !list
   - BEL
-  count: 2742
+  count: 2834
 - tag: Q408
   regions: !list
   - AUS
-  count: 2619
+  count: 2741
 - tag: Q801
   regions: !list
   - ISR
-  count: 2578
+  count: 2624
 - tag: Q39
   regions: !list
   - CHE
-  count: 2480
-- tag: Q211
-  regions: !list
-  - MKD
-  count: 2158
+  count: 2597
 - tag: Q35
   description: Denmark
   regions: !list
   - DNK
-  count: 2154
+  count: 2541
+- tag: Q211
+  regions: !list
+  - MKD
+  count: 2201
 - tag: Q668
   description: India
   regions: !list
   - IND
-  count: 2004
+  count: 2098
 - tag: Q212
   description: Ukraine
   regions: !list
   - UKR
-  count: 1713
+  count: 1758
 - tag: Q218
   description: Romania
   regions: !list
   - ROU
-  count: 1517
+  count: 1549
 - tag: Q43
   regions: !list
   - TUR
-  count: 1492
+  count: 1536
+- tag: Q45
+  regions: !list
+  - PRT
+  count: 1179
 - tag: Q28
   description: Hungary
   regions: !list
   - HUN
-  count: 1085
+  count: 1126
+- tag: Q33946
+  description: Czechoslovakia
+  count: 1114
 - tag: Q191
   description: Estonia
   regions: !list
   - EST
-  count: 1009
+  count: 1031
+- tag: Q865
+  count: 1015
 - tag: Q41
   description: Greece
   regions: !list
   - GRC
-  count: 973
-- tag: Q45
-  regions: !list
-  - PRT
-  count: 947
+  count: 1009
 - tag: Q1033
-  count: 914
-- tag: Q865
-  count: 904
+  count: 942
 - tag: Q1206012
   regions: !list
   - DEU
-  count: 756
+  count: 803
 - tag: Q37
   regions: !list
   - LTU
-  count: 753
-- tag: Q730
-  count: 725
-- tag: Q403
-  description: Serbia
-  count: 724
+  count: 766
 - tag: Q27
   regions: !list
   - IRL
-  count: 723
-- tag: Q229
-  regions: !list
-  - CYP
-  count: 704
+  count: 760
 - tag: Q664
   regions: !list
   - NZL
-  count: 695
-- tag: Q7646305
-  count: 681
+  count: 742
+- tag: Q403
+  description: Serbia
+  count: 737
+- tag: Q730
+  count: 726
+- tag: Q229
+  regions: !list
+  - CYP
+  count: 724
 - tag: Q414
   description: Argentina
   regions: !list
   - ARG
-  count: 657
+  count: 699
+- tag: Q7646305
+  count: 683
 - tag: Q258
   regions: !list
   - ZAF
-  count: 642
+  count: 666
 - tag: Q15180
   description: Soviet Union
-  count: 564
+  count: 639
 - tag: Q96
   description: Mexico
   regions: !list
   - MEX
-  count: 530
+  count: 559
 - tag: Q184
   description: Belarus
   regions: !list
   - BLR
-  count: 486
-- tag: Q33946
-  description: Czechoslovakia
-  count: 479
+  count: 517
 - tag: Q963
-  count: 468
+  count: 470
+- tag: Q219
+  regions: !list
+  - BGR
+  count: 469
 - tag: Q16957
   description: German Democratic Republic
   regions: !list
   - DEU
-  count: 446
-- tag: Q219
-  regions: !list
-  - BGR
-  count: 420
+  count: 465
+- tag: Q334
+  description: Singapore
+  count: 456
 - tag: Q833
-  count: 420
+  count: 434
 - tag: Q215
   regions: !list
   - SVN
-  count: 419
-- tag: Q334
-  description: Singapore
-  count: 418
+  count: 432
 - tag: Q34266
   description: Russian Empire
   regions: !list
   - RUS
-  count: 367
-- tag: Q298
-  regions: !list
-  - CHL
-  count: 358
-- tag: Q794
-  description: Iran
-  regions: !list
-  - IRN
-  count: 356
+  count: 394
 - tag: Q851
   description: Saudi Arabia
   regions: !list
   - SAU
-  count: 349
+  count: 368
+- tag: Q794
+  description: Iran
+  regions: !list
+  - IRN
+  count: 367
+- tag: Q298
+  regions: !list
+  - CHL
+  count: 363
 - tag: Q32
-  count: 341
+  count: 362
+- tag: Q928
+  regions: !list
+  - PHL
+  count: 354
 - tag: Q224
   description: Croatia
   regions: !list
   - HRV
-  count: 339
-- tag: Q928
-  regions: !list
-  - PHL
-  count: 331
+  count: 346
 - tag: Q837
-  count: 327
+  count: 329
 - tag: Q869
   regions: !list
   - THA
-  count: 308
+  count: 329
 - tag: Q174193
   regions: !list
   - GBR
-  count: 255
+  count: 264
 - tag: Q79
   description: Egypt
-  count: 230
+  count: 249
 - tag: Q739
   regions: !list
   - COL
-  count: 221
+  count: 231
 - tag: Q8646
   description: Hong Kong
   regions: !list
   - HKG
-  count: 218
-- tag: Q419
-  count: 202
+  count: 224
 - tag: Q878
-  count: 196
+  count: 223
+- tag: Q419
+  count: 210
 - tag: Q28513
-  count: 194
-- tag: Q854
-  description: Sri Lanka
-  count: 192
-- tag: Q843
-  regions: !list
-  - PAK
-  count: 176
-- tag: Q233
-  regions: !list
-  - MLT
-  count: 175
-- tag: Q1036
-  count: 170
+  count: 201
 - tag: Q881
   regions: !list
   - VNM
-  count: 169
+  count: 196
+- tag: Q117
+  count: 195
+- tag: Q854
+  description: Sri Lanka
+  count: 195
+- tag: Q843
+  regions: !list
+  - PAK
+  count: 184
+- tag: Q233
+  regions: !list
+  - MLT
+  count: 181
+- tag: Q1036
+  count: 173
 - tag: Q232
   description: Kazakhstan
   regions: !list
   - KAZ
-  count: 141
+  count: 148
+- tag: Q1028
+  count: 144
 - tag: Q262
   description: Algeria
   count: 137
 - tag: Q902
   regions: !list
   - BGD
-  count: 132
-- tag: Q1028
-  count: 129
-- tag: Q948
-  regions: !list
-  - TUN
-  count: 126
-- tag: Q117
-  count: 123
-- tag: Q193619
-  count: 120
-- tag: Q189
-  count: 119
+  count: 136
 - tag: Q717
   regions: !list
   - VEN
-  count: 111
+  count: 134
+- tag: Q948
+  regions: !list
+  - TUN
+  count: 127
+- tag: Q189
+  count: 122
+- tag: Q193619
+  count: 120
 - tag: Q188712
   regions: !list
   - JPN
-  count: 110
+  count: 115
+- tag: Q227
+  description: Azerbaijan
+  count: 99
 - tag: Q43287
   description: German Empire
   regions: !list
   - DEU
-  count: 100
-- tag: Q227
-  description: Azerbaijan
+  count: 95
+- tag: Q399
+  description: Armenia
+  regions: !list
+  - ARM
   count: 93
 - tag: Q225
   description: Bosnia and Herzegovina
-  count: 90
+  count: 92
 - tag: Q265
-  count: 90
+  count: 92
+- tag: Q974
+  count: 92
+- tag: Q77
+  count: 91
 - tag: Q7318
   description: Nazi Germany
   regions: !list
   - DEU
   count: 89
-- tag: Q399
-  description: Armenia
-  regions: !list
-  - ARM
-  count: 88
-- tag: Q77
-  count: 88
-- tag: Q974
-  count: 86
 - tag: Q945
-  count: 84
+  count: 88
 - tag: Q222
-  count: 83
+  count: 87
 - tag: Q858
-  count: 82
-- tag: Q114
-  description: Kenya
-  count: 75
-- tag: Q41304
-  count: 74
-- tag: Q796
-  description: Iraq
-  count: 74
-- tag: Q846
-  count: 74
+  count: 84
 - tag: Q230
   description: Georgia
-  count: 73
-- tag: Q423
-  description: North Korea
-  count: 69
+  count: 80
+- tag: Q114
+  description: Kenya
+  count: 79
+- tag: Q846
+  count: 77
+- tag: Q796
+  description: Iraq
+  count: 76
 - tag: Q1054923
   regions: !list
   - HKG
-  count: 68
-- tag: Q458
-  count: 66
-- tag: Q5785
-  regions: !list
-  - CYM
-  count: 66
-- tag: Q822
-  count: 65
+  count: 74
 - tag: Q29999
   regions: !list
   - NLD
-  count: 64
-- tag: Q750
-  count: 63
+  count: 74
+- tag: Q41304
+  count: 72
 - tag: Q711
-  count: 59
+  count: 70
+- tag: Q423
+  description: North Korea
+  count: 69
+- tag: Q5785
+  regions: !list
+  - CYM
+  count: 69
+- tag: Q458
+  count: 66
+- tag: Q750
+  count: 65
+- tag: Q822
+  count: 64
 - tag: Q810
-  count: 59
+  count: 60
 - tag: Q1009
-  count: 56
+  count: 58
 - tag: Q924
-  count: 56
+  count: 58
+- tag: Q736
+  count: 57
 - tag: Q1030
   count: 55
-- tag: Q217
-  count: 55
-- tag: Q736
-  count: 54
 - tag: Q241
   description: Cuba
+  count: 55
+- tag: Q217
+  count: 54
+- tag: Q347
   count: 52
 - tag: Q23635
   description: Bermuda
   count: 51
-- tag: Q347
-  count: 50
-- tag: Q836
-  count: 49
+- tag: Q27306
+  count: 51
 - tag: Q172579
   regions: !list
   - ITA
-  count: 48
+  count: 49
 - tag: Q954
-  count: 47
+  count: 48
 - tag: Q221
-  count: 45
+  count: 46
+- tag: Q836
+  count: 46
+- tag: Q1246
+  count: 43
 - tag: Q713750
-  count: 44
+  count: 43
+- tag: Q25
+  count: 41
 - tag: Q398
   count: 41
-- tag: Q27306
-  count: 40
-- tag: Q1246
-  count: 39
-- tag: Q25305
-  count: 38
-- tag: Q1008
-  count: 37
-- tag: Q916
-  count: 37
-- tag: Q804
-  count: 36
-- tag: Q1006
-  count: 35
-- tag: Q25
-  count: 35
-- tag: Q889
-  count: 35
-- tag: Q962
-  count: 34
-- tag: Q1032
-  count: 33
-- tag: Q774
-  count: 33
 - tag: Q813
   regions: !list
   - KGZ
-  count: 33
-- tag: Q817
-  count: 33
-- tag: Q1019
-  count: 32
+  count: 41
+- tag: Q1008
+  count: 40
+- tag: Q804
+  count: 40
+- tag: Q1006
+  count: 39
 - tag: Q1041
-  count: 32
-- tag: Q129286
-  count: 32
+  count: 38
 - tag: Q219060
-  count: 32
-- tag: Q36704
-  count: 32
-- tag: Q1016
-  count: 31
+  count: 38
+- tag: Q25305
+  count: 38
+- tag: Q962
+  count: 38
+- tag: Q1019
+  count: 37
+- tag: Q774
+  count: 37
+- tag: Q916
+  count: 37
+- tag: Q817
+  count: 35
 - tag: Q1037
-  count: 29
+  count: 34
+- tag: Q889
+  count: 34
+- tag: Q1032
+  count: 33
+- tag: Q129286
+  count: 33
 - tag: Q131964
   description: Austrian Empire
-  count: 29
+  count: 33
+- tag: Q1016
+  count: 31
+- tag: Q36704
+  count: 31
 - tag: Q424
+  count: 30
+- tag: Q786
   count: 29
-- tag: Q13426199
+- tag: Q235
+  count: 28
+- tag: Q533534
+  count: 28
+- tag: Q785
+  count: 28
+- tag: Q115
+  regions: !list
+  - ETH
   count: 27
 - tag: Q170072
   description: Dutch Republic
   count: 27
-- tag: Q786
-  count: 27
-- tag: Q115
-  regions: !list
-  - ETH
+- tag: Q1029
   count: 26
-- tag: Q785
+- tag: Q13426199
+  count: 26
+- tag: Q188161
   count: 26
 - tag: Q38872
-  count: 25
-- tag: Q533534
-  count: 25
+  count: 26
 - tag: Q792
-  count: 25
-- tag: Q161885
-  description: Kingdom of Great Britain
-  count: 23
-- tag: Q235
-  count: 23
+  count: 26
+- tag: Q179876
+  count: 24
+- tag: Q223
+  count: 24
 - tag: Q236
-  count: 23
+  count: 24
+- tag: Q783
+  count: 24
 - tag: Q842
   regions: !list
   - OMN
-  count: 23
-- tag: Q1029
-  count: 22
-- tag: Q179876
-  count: 22
-- tag: Q188161
-  count: 22
-- tag: Q733
-  count: 22
-- tag: Q783
-  count: 22
-- tag: Q223
-  count: 21
-- tag: Q691
-  count: 21
-- tag: Q800
-  count: 21
+  count: 24
 - tag: Q953
   regions: !list
   - ZMB
+  count: 24
+- tag: Q161885
+  description: Kingdom of Great Britain
+  count: 23
+- tag: Q800
+  count: 22
+- tag: Q691
   count: 21
+- tag: Q733
+  count: 21
+- tag: Q965
+  count: 21
+- tag: Q186096
+  count: 20
 - tag: Q25230
+  count: 20
+- tag: Q912
+  count: 20
+- tag: Q1027
+  description: Mauritius
+  count: 19
+- tag: Q211274
+  description: Polish People's Republic
+  regions: !list
+  - POL
   count: 19
 - tag: Q4628
   regions: !list
   - FRO
   count: 19
-- tag: Q912
-  count: 19
+- tag: Q1049
+  count: 18
 - tag: Q185682
   count: 18
 - tag: Q874
   count: 18
-- tag: Q1027
-  description: Mauritius
+- tag: Q2305208
   count: 17
-- tag: Q211274
-  regions: !list
-  - POL
+- tag: Q238
   count: 17
 - tag: Q70972
   count: 17
 - tag: Q863
   count: 17
-- tag: Q1049
+- tag: Q139319
   count: 16
 - tag: Q18097
   count: 16
-- tag: Q238
-  count: 16
-- tag: Q805
-  count: 16
-- tag: Q153015
-  count: 15
-- tag: Q186096
-  count: 15
-- tag: Q191077
-  count: 15
 - tag: Q207272
   regions: !list
   - POL
+  count: 16
+- tag: Q805
+  count: 16
+- tag: Q12560
+  count: 15
+- tag: Q153015
+  count: 15
+- tag: Q164079
+  count: 15
+- tag: Q191077
+  count: 15
+- tag: Q25279
+  count: 15
+- tag: Q29520
   count: 15
 - tag: Q766
   regions: !list
@@ -592,87 +607,74 @@ countries:
   count: 15
 - tag: Q1000
   count: 14
-- tag: Q12560
-  count: 14
-- tag: Q25279
+- tag: Q657
   count: 14
 - tag: Q819
   count: 14
 - tag: Q83286
   count: 14
+- tag: Q9676
+  description: Isle of Man
+  count: 14
+- tag: Q1020
+  count: 13
+- tag: Q137816
+  count: 13
 - tag: Q228
   regions: !list
   - AND
   count: 13
-- tag: Q965
+- tag: Q754
   count: 13
-- tag: Q1020
-  count: 12
 - tag: Q1025
   regions: !list
   - MRT
   count: 12
-- tag: Q2305208
-  count: 12
 - tag: Q242
   count: 12
-- tag: Q29520
-  count: 12
-- tag: Q754
-  count: 12
-- tag: Q986
-  count: 12
-- tag: Q30623
-  count: 11
-- tag: Q657
-  count: 11
 - tag: Q778
   regions: !list
   - BHS
+  count: 12
+- tag: Q1045
+  count: 11
+- tag: Q1050
+  count: 11
+- tag: Q213510
+  count: 11
+- tag: Q30623
+  count: 11
+- tag: Q790
+  count: 11
+- tag: Q811
   count: 11
 - tag: Q8673
   count: 11
 - tag: Q921
   count: 11
-- tag: Q9676
-  description: Isle of Man
+- tag: Q986
   count: 11
-- tag: Q1050
+- tag: Q12548
+  count: 10
+- tag: Q153136
   count: 10
 - tag: Q154195
   count: 10
-- tag: Q171150
-  count: 10
-- tag: Q213510
-  count: 10
-- tag: Q811
-  count: 10
 - tag: Q1011
   count: 9
-- tag: Q1045
-  count: 9
-- tag: Q12548
-  count: 9
-- tag: Q139319
-  count: 9
-- tag: Q153136
+- tag: Q171150
   count: 9
 - tag: Q193714
+  count: 9
+- tag: Q230791
   count: 9
 - tag: Q244
   count: 9
 - tag: Q42585
   count: 9
-- tag: Q790
-  count: 9
 - tag: Q907234
   count: 9
 - tag: Q1410
-  count: 8
-- tag: Q2277
-  description: Roman Empire
-  count: 8
-- tag: Q230791
   count: 8
 - tag: Q4948
   description: Republic of Venice
@@ -681,19 +683,24 @@ countries:
   count: 8
 - tag: Q1042
   count: 7
+- tag: Q1044
+  count: 7
 - tag: Q15102440
   count: 7
 - tag: Q159631
   count: 7
-- tag: Q164079
-  count: 7
 - tag: Q2017684
+  count: 7
+- tag: Q2277
+  description: Roman Empire
   count: 7
 - tag: Q23681
   count: 7
 - tag: Q712
   count: 7
-- tag: Q734
+- tag: Q80702
+  count: 7
+- tag: Q826
   count: 7
 - tag: Q917
   count: 7
@@ -701,14 +708,18 @@ countries:
   count: 6
 - tag: Q1013
   count: 6
-- tag: Q1044
-  count: 6
-- tag: Q137816
+- tag: Q1183
+  regions: !list
+  - PRI
   count: 6
 - tag: Q154401
   count: 6
+- tag: Q165154
+  count: 6
 - tag: Q216173
   description: Free City of Danzig
+  count: 6
+- tag: Q237
   count: 6
 - tag: Q2415901
   count: 6
@@ -716,11 +727,18 @@ countries:
   count: 6
 - tag: Q697
   count: 6
+- tag: Q71084
+  description: First French Empire
+  count: 6
+- tag: Q734
+  count: 6
 - tag: Q8680
   count: 6
 - tag: Q929
   count: 6
 - tag: Q967
+  count: 6
+- tag: Q971
   count: 6
 - tag: Q12544
   count: 5
@@ -730,7 +748,7 @@ countries:
   count: 5
 - tag: Q153128
   count: 5
-- tag: Q165154
+- tag: Q203493
   count: 5
 - tag: Q205662
   regions: !list
@@ -738,38 +756,25 @@ countries:
   count: 5
 - tag: Q210682
   count: 5
-- tag: Q237
-  count: 5
-- tag: Q2895
-  count: 5
 - tag: Q574
   regions: !list
   - TLS
   count: 5
 - tag: Q672
   count: 5
-- tag: Q71084
-  description: First French Empire
-  count: 5
 - tag: Q750583
+  count: 5
+- tag: Q756617
   count: 5
 - tag: Q757
   count: 5
-- tag: Q80702
-  count: 5
 - tag: Q8733
-  count: 5
-- tag: Q971
   count: 5
 - tag: Q1007
   count: 4
 - tag: Q1014
   count: 4
-- tag: Q1183
-  regions: !list
-  - PRI
-  count: 4
-- tag: Q133356
+- tag: Q13780930
   count: 4
 - tag: Q14773
   count: 4
@@ -787,16 +792,21 @@ countries:
   count: 4
 - tag: Q223936
   count: 4
+- tag: Q23792
+  count: 4
 - tag: Q25395037
   count: 4
 - tag: Q26
-  description: Northern Ireland
   count: 4
 - tag: Q268970
   count: 4
 - tag: Q3279296
   count: 4
 - tag: Q45670
+  count: 4
+- tag: Q503585
+  count: 4
+- tag: Q516160
   count: 4
 - tag: Q518101
   count: 4
@@ -806,11 +816,13 @@ countries:
   count: 4
 - tag: Q5710
   count: 4
+- tag: Q57695350
+  count: 4
+- tag: Q600018
+  count: 4
 - tag: Q709
   count: 4
-- tag: Q756617
-  count: 4
-- tag: Q826
+- tag: Q970
   count: 4
 - tag: Q1031430
   count: 3
@@ -822,47 +834,50 @@ countries:
   count: 3
 - tag: Q131337
   count: 3
-- tag: Q13780930
+- tag: Q1400
+  description: Pennsylvania
   count: 3
 - tag: Q150981
+  count: 3
+- tag: Q153943
   count: 3
 - tag: Q156031
   count: 3
 - tag: Q170174
   count: 3
+- tag: Q170770
+  count: 3
 - tag: Q186320
   count: 3
 - tag: Q188553
   count: 3
-- tag: Q203493
+- tag: Q192180
   count: 3
 - tag: Q205047
   count: 3
 - tag: Q215443
   count: 3
-- tag: Q23792
-  count: 3
 - tag: Q2385925
+  count: 3
+- tag: Q243610
   count: 3
 - tag: Q244165
   count: 3
+- tag: Q2685298
+  count: 3
 - tag: Q39193
   count: 3
-- tag: Q503585
-  count: 3
-- tag: Q516160
-  count: 3
 - tag: Q55300
-  count: 3
-- tag: Q57695350
-  count: 3
-- tag: Q600018
   count: 3
 - tag: Q685
   regions: !list
   - SLB
   count: 3
+- tag: Q706018
+  count: 3
 - tag: Q70802
+  count: 3
+- tag: Q760
   count: 3
 - tag: Q76048
   count: 3
@@ -872,13 +887,16 @@ countries:
   count: 3
 - tag: Q781
   count: 3
-- tag: Q876185
+- tag: Q842794
   count: 3
-- tag: Q970
+- tag: Q876185
   count: 3
 - tag: Q983
   regions: !list
   - GNQ
+  count: 3
+- tag: Q99
+  description: California
   count: 3
 - tag: Q1039
   regions: !list
@@ -890,14 +908,15 @@ countries:
   count: 2
 - tag: Q11285099
   count: 2
+- tag: Q1135255
+  count: 2
 - tag: Q121932
   count: 2
 - tag: Q124943
   count: 2
 - tag: Q12585
   count: 2
-- tag: Q1400
-  description: Pennsylvania
+- tag: Q130276
   count: 2
 - tag: Q146246
   count: 2
@@ -915,17 +934,15 @@ countries:
   count: 2
 - tag: Q158725
   count: 2
+- tag: Q16056854
+  count: 2
 - tag: Q16410
   count: 2
 - tag: Q1649871
   count: 2
-- tag: Q170770
-  count: 2
 - tag: Q17167
   count: 2
 - tag: Q172107
-  count: 2
-- tag: Q1761
   count: 2
 - tag: Q176495
   count: 2
@@ -933,11 +950,13 @@ countries:
   count: 2
 - tag: Q179997
   count: 2
-- tag: Q183298
-  count: 2
 - tag: Q190922
   count: 2
 - tag: Q2001966
+  count: 2
+- tag: Q20135
+  count: 2
+- tag: Q206411
   count: 2
 - tag: Q208318
   count: 2
@@ -951,17 +970,15 @@ countries:
   count: 2
 - tag: Q213353
   count: 2
-- tag: Q23366230
+- tag: Q2227570
   count: 2
-- tag: Q243610
+- tag: Q23366230
   count: 2
 - tag: Q2453974
   count: 2
 - tag: Q256961
   count: 2
 - tag: Q26271738
-  count: 2
-- tag: Q2685298
   count: 2
 - tag: Q310293
   count: 2
@@ -973,11 +990,25 @@ countries:
   count: 2
 - tag: Q42834
   count: 2
+- tag: Q435583
+  count: 2
+- tag: Q46315
+  count: 2
 - tag: Q464953
+  count: 2
+- tag: Q52062
+  count: 2
+- tag: Q575187
   count: 2
 - tag: Q577867
   count: 2
+- tag: Q625380
+  count: 2
 - tag: Q62589
+  count: 2
+- tag: Q63158027
+  count: 2
+- tag: Q655621
   count: 2
 - tag: Q6581823
   count: 2
@@ -998,8 +1029,6 @@ countries:
 - tag: Q727
   description: Amsterdam
   count: 2
-- tag: Q760
-  count: 2
 - tag: Q762943
   count: 2
 - tag: Q830084
@@ -1010,8 +1039,6 @@ countries:
   count: 2
 - tag: Q84
   description: London
-  count: 2
-- tag: Q842794
   count: 2
 - tag: Q1028848
   count: 1
@@ -1030,17 +1057,20 @@ countries:
   count: 1
 - tag: Q1057542
   count: 1
+- tag: Q107258515
+  count: 1
 - tag: Q1078001
   count: 1
 - tag: Q1081620
+  count: 1
+- tag: Q10846831
+  description: Crunchbase
   count: 1
 - tag: Q110888
   count: 1
 - tag: Q1110
   count: 1
 - tag: Q11196
-  count: 1
-- tag: Q1135255
   count: 1
 - tag: Q1151066
   count: 1
@@ -1051,6 +1081,8 @@ countries:
 - tag: Q1174
   count: 1
 - tag: Q11750128
+  count: 1
+- tag: Q11750528
   count: 1
 - tag: Q117714
   count: 1
@@ -1064,11 +1096,17 @@ countries:
   count: 1
 - tag: Q12060881
   count: 1
+- tag: Q1223
+  count: 1
 - tag: Q1227
+  count: 1
+- tag: Q1232887
   count: 1
 - tag: Q1301901
   count: 1
-- tag: Q130276
+- tag: Q130251145
+  count: 1
+- tag: Q130311784
   count: 1
 - tag: Q130654
   count: 1
@@ -1082,15 +1120,11 @@ countries:
   count: 1
 - tag: Q13590051
   count: 1
-- tag: Q1384
-  count: 1
 - tag: Q1406298
   count: 1
 - tag: Q1423581
   count: 1
 - tag: Q1428
-  count: 1
-- tag: Q1456
   count: 1
 - tag: Q147909
   count: 1
@@ -1100,15 +1134,15 @@ countries:
   count: 1
 - tag: Q152115
   count: 1
-- tag: Q1527
-  count: 1
 - tag: Q153080
   count: 1
 - tag: Q153091
   count: 1
+- tag: Q15315
+  count: 1
 - tag: Q153529
   count: 1
-- tag: Q153943
+- tag: Q154667
   count: 1
 - tag: Q156020
   count: 1
@@ -1128,13 +1162,23 @@ countries:
   count: 1
 - tag: Q16150196
   count: 1
+- tag: Q16553
+  count: 1
+- tag: Q16554
+  count: 1
+- tag: Q16963
+  count: 1
 - tag: Q16985296
+  count: 1
+- tag: Q17260229
   count: 1
 - tag: Q173065
   count: 1
 - tag: Q173761
   count: 1
 - tag: Q1741
+  count: 1
+- tag: Q1761
   count: 1
 - tag: Q178038
   count: 1
@@ -1147,6 +1191,10 @@ countries:
 - tag: Q181254
   count: 1
 - tag: Q182984
+  count: 1
+- tag: Q183298
+  count: 1
+- tag: Q185488
   count: 1
 - tag: Q186537
   count: 1
@@ -1162,15 +1210,19 @@ countries:
   count: 1
 - tag: Q192184
   count: 1
-- tag: Q20011161
+- tag: Q195972
   count: 1
-- tag: Q20135
+- tag: Q1998866
+  count: 1
+- tag: Q20011161
   count: 1
 - tag: Q203817
   count: 1
+- tag: Q204920
+  count: 1
 - tag: Q206317
   count: 1
-- tag: Q206411
+- tag: Q206696
   count: 1
 - tag: Q2079909
   count: 1
@@ -1178,21 +1230,17 @@ countries:
   count: 1
 - tag: Q212056
   count: 1
-- tag: Q215530
+- tag: Q212439
   count: 1
 - tag: Q2162698
   count: 1
-- tag: Q216923
+- tag: Q216791
   count: 1
 - tag: Q217230
   count: 1
 - tag: Q221457
   count: 1
-- tag: Q2227570
-  count: 1
 - tag: Q223793
-  count: 1
-- tag: Q22424
   count: 1
 - tag: Q2252973
   count: 1
@@ -1224,15 +1272,22 @@ countries:
   count: 1
 - tag: Q245023
   count: 1
+- tag: Q245160
+  count: 1
 - tag: Q2458532
   count: 1
 - tag: Q246373
   count: 1
 - tag: Q246972
   count: 1
+- tag: Q2565342
+  description: España
+  count: 1
 - tag: Q2577303
   count: 1
 - tag: Q2597352
+  count: 1
+- tag: Q2630860
   count: 1
 - tag: Q2662372
   count: 1
@@ -1242,11 +1297,19 @@ countries:
   count: 1
 - tag: Q27611
   count: 1
+- tag: Q2807
+  count: 1
+- tag: Q28233
+  count: 1
+- tag: Q282475
+  count: 1
 - tag: Q298874
   count: 1
 - tag: Q313175
   count: 1
 - tag: Q31747
+  count: 1
+- tag: Q31929
   count: 1
 - tag: Q319984
   count: 1
@@ -1254,15 +1317,19 @@ countries:
   count: 1
 - tag: Q325461
   count: 1
+- tag: Q330756
+  count: 1
 - tag: Q33788
   count: 1
-- tag: Q3469728
+- tag: Q33959
   count: 1
-- tag: Q36678
+- tag: Q36074
   count: 1
 - tag: Q370173
   count: 1
 - tag: Q37024
+  count: 1
+- tag: Q37070394
   count: 1
 - tag: Q370736
   count: 1
@@ -1273,6 +1340,8 @@ countries:
 - tag: Q3769
   count: 1
 - tag: Q389004
+  count: 1
+- tag: Q3908
   count: 1
 - tag: Q3916279
   count: 1
@@ -1296,9 +1365,11 @@ countries:
   count: 1
 - tag: Q42497
   count: 1
-- tag: Q4318679
+- tag: Q426025
   count: 1
-- tag: Q435583
+- tag: Q426488
+  count: 1
+- tag: Q4318679
   count: 1
 - tag: Q4373718
   count: 1
@@ -1316,10 +1387,6 @@ countries:
   count: 1
 - tag: Q459780
   count: 1
-- tag: Q46
-  count: 1
-- tag: Q46315
-  count: 1
 - tag: Q46370
   count: 1
 - tag: Q4712
@@ -1332,21 +1399,24 @@ countries:
   count: 1
 - tag: Q484652
   count: 1
+- tag: Q490
+  description: Milan
+  count: 1
+- tag: Q49191
+  count: 1
 - tag: Q495380
   count: 1
 - tag: Q49683
   count: 1
 - tag: Q508014
   count: 1
-- tag: Q52062
-  count: 1
-- tag: Q529605
-  count: 1
 - tag: Q5343710
   count: 1
 - tag: Q5347703
   count: 1
 - tag: Q541455
+  count: 1
+- tag: Q545205
   count: 1
 - tag: Q548114
   count: 1
@@ -1364,7 +1434,7 @@ countries:
   count: 1
 - tag: Q574593
   count: 1
-- tag: Q575187
+- tag: Q57676556
   count: 1
 - tag: Q58296
   count: 1
@@ -1376,6 +1446,9 @@ countries:
   count: 1
 - tag: Q596239
   count: 1
+- tag: Q60
+  description: New York City
+  count: 1
 - tag: Q612
   count: 1
 - tag: Q61427
@@ -1384,19 +1457,17 @@ countries:
   count: 1
 - tag: Q622783
   count: 1
-- tag: Q625380
-  count: 1
 - tag: Q62623
   count: 1
 - tag: Q62651
   count: 1
 - tag: Q630882
   count: 1
-- tag: Q63158027
-  count: 1
 - tag: Q637238
   count: 1
 - tag: Q638503
+  count: 1
+- tag: Q64
   count: 1
 - tag: Q644636
   count: 1
@@ -1404,15 +1475,19 @@ countries:
   count: 1
 - tag: Q650370
   count: 1
-- tag: Q655621
-  count: 1
 - tag: Q659312
   count: 1
+- tag: Q671086
+  count: 1
 - tag: Q682571
+  count: 1
+- tag: Q68481
   count: 1
 - tag: Q68678
   count: 1
 - tag: Q686971
+  count: 1
+- tag: Q696251
   count: 1
 - tag: Q696640
   count: 1
@@ -1426,6 +1501,8 @@ countries:
   count: 1
 - tag: Q704300
   count: 1
+- tag: Q704484
+  count: 1
 - tag: Q704714
   count: 1
 - tag: Q708865
@@ -1438,9 +1515,9 @@ countries:
   count: 1
 - tag: Q736727
   count: 1
-- tag: Q76236
+- tag: Q7411
   count: 1
-- tag: Q7737
+- tag: Q76236
   count: 1
 - tag: Q774783
   count: 1
@@ -1450,11 +1527,17 @@ countries:
   count: 1
 - tag: Q7882199
   count: 1
+- tag: Q7886026
+  count: 1
+- tag: Q7892312
+  count: 1
 - tag: Q7904317
   count: 1
 - tag: Q797433
   count: 1
 - tag: Q79918
+  count: 1
+- tag: Q79965
   count: 1
 - tag: Q80252
   count: 1
@@ -1470,20 +1553,22 @@ countries:
   count: 1
 - tag: Q842199
   count: 1
-- tag: Q844250
-  count: 1
 - tag: Q853348
   description: Czechoslovak Socialist Republic
+  count: 1
+- tag: Q854415
   count: 1
 - tag: Q878284
   count: 1
 - tag: Q878319
   count: 1
-- tag: Q9035
-  count: 1
 - tag: Q907112
   count: 1
+- tag: Q907827
+  count: 1
 - tag: Q940741
+  count: 1
+- tag: Q95010
   count: 1
 - tag: Q951500
   count: 1
@@ -1493,6 +1578,5 @@ countries:
   count: 1
 - tag: Q977
   count: 1
-- tag: Q99
-  description: California
+- tag: Q993444
   count: 1

@@ -2,364 +2,440 @@ countries:
 - tag: United States
   regions: !list
   - USA
-  count: 4545
+  count: 6399
 - tag: United Kingdom
   regions: !list
   - GBR
-  count: 1345
+  count: 3835
 - tag: Canada
   regions: !list
   - CAN
-  count: 926
+  count: 1498
 - tag: Australia
   regions: !list
   - AUS
-  count: 790
-- tag: Brazil
-  regions: !list
-  - BRA
-  count: 395
-- tag: Chile
-  regions: !list
-  - CHL
-  count: 391
+  count: 1297
 - tag: France
   regions: !list
   - FRA
-  count: 331
+  count: 880
+- tag: Brazil
+  regions: !list
+  - BRA
+  count: 717
 - tag: Netherlands The
   regions: !list
   - NLD
-  count: 290
-- tag: Argentina
+  count: 699
+- tag: Chile
   regions: !list
-  - ARG
-  count: 289
+  - CHL
+  count: 659
 - tag: Italy
   regions: !list
   - ITA
-  count: 286
+  count: 592
+- tag: Argentina
+  regions: !list
+  - ARG
+  count: 541
 - tag: Spain
   regions: !list
   - ESP
-  count: 194
+  count: 415
 - tag: Colombia
   regions: !list
   - COL
-  count: 162
+  count: 285
 - tag: New Zealand
   regions: !list
   - NZL
-  count: 124
+  count: 273
 - tag: Switzerland
   regions: !list
   - CHE
-  count: 118
+  count: 249
 - tag: Germany
   regions: !list
   - DEU
-  count: 111
+  count: 235
 - tag: Mexico
   regions: !list
   - MEX
-  count: 111
-- tag: Taiwan
-  regions: !list
-  - TWN
-  count: 76
+  count: 205
 - tag: Denmark
   regions: !list
   - DNK
-  count: 70
+  count: 197
 - tag: Belgium
   regions: !list
   - BEL
-  count: 61
+  count: 186
+- tag: Taiwan
+  regions: !list
+  - TWN
+  count: 115
 - tag: Peru
   regions: !list
   - PER
-  count: 54
+  count: 105
 - tag: China
   regions: !list
   - CHN
-  count: 45
-- tag: Kenya
-  regions: !list
-  - KEN
-  count: 41
-- tag: South Korea
-  regions: !list
-  - KOR
-  count: 40
-- tag: Portugal
-  regions: !list
-  - PRT
-  count: 39
-- tag: Singapore
-  regions: !list
-  - SGP
-  count: 32
-- tag: Ecuador
-  regions: !list
-  - ECU
-  count: 29
-- tag: Paraguay
-  regions: !list
-  - PRY
-  count: 29
-- tag: Hong Kong S.A.R.
-  regions: !list
-  - HKG
-  count: 24
-- tag: Uruguay
-  regions: !list
-  - URY
-  count: 24
-- tag: Japan
-  regions: !list
-  - JPN
-  count: 21
-- tag: Israel
-  regions: !list
-  - ISR
-  count: 20
-- tag: Costa Rica
-  regions: !list
-  - CRI
-  count: 19
-- tag: South Africa
-  regions: !list
-  - ZAF
-  count: 18
-- tag: India
-  regions: !list
-  - IND
-  count: 16
+  count: 99
 - tag: Ireland
   regions: !list
   - IRL
-  count: 15
+  count: 95
+- tag: Singapore
+  regions: !list
+  - SGP
+  count: 92
+- tag: Portugal
+  regions: !list
+  - PRT
+  count: 84
+- tag: Japan
+  regions: !list
+  - JPN
+  count: 77
+- tag: South Korea
+  regions: !list
+  - KOR
+  count: 72
+- tag: Ecuador
+  regions: !list
+  - ECU
+  count: 69
+- tag: Paraguay
+  regions: !list
+  - PRY
+  count: 66
+- tag: Kenya
+  regions: !list
+  - KEN
+  count: 64
+- tag: Hong Kong S.A.R.
+  regions: !list
+  - HKG
+  count: 61
+- tag: Uruguay
+  regions: !list
+  - URY
+  count: 44
 - tag: Indonesia
   regions: !list
   - IDN
-  count: 14
-- tag: Turkey
+  count: 42
+- tag: Costa Rica
   regions: !list
-  - TUR
-  count: 13
-- tag: Guatemala
+  - CRI
+  count: 34
+- tag: India
   regions: !list
-  - GTM
-  count: 12
+  - IND
+  count: 34
 - tag: Sweden
   regions: !list
   - SWE
-  count: 12
+  count: 34
+- tag: South Africa
+  regions: !list
+  - ZAF
+  count: 32
+- tag: Turkey
+  regions: !list
+  - TUR
+  count: 27
+- tag: Israel
+  regions: !list
+  - ISR
+  count: 22
 - tag: Luxembourg
   regions: !list
   - LUX
-  count: 10
-- tag: Austria
-  regions: !list
-  - AUT
-  count: 9
-- tag: Uganda
-  regions: !list
-  - UGA
-  count: 9
-- tag: Norway
-  regions: !list
-  - NOR
-  count: 8
-- tag: Panama
-  regions: !list
-  - PAN
-  count: 8
-- tag: Poland
-  regions: !list
-  - POL
-  count: 8
-- tag: Thailand
-  regions: !list
-  - THA
-  count: 7
-- tag: Mauritius
-  regions: !list
-  - MUS
-  count: 6
+  count: 21
 - tag: Malaysia
   regions: !list
   - MYS
-  count: 5
-- tag: Venezuela
+  count: 20
+- tag: Austria
   regions: !list
-  - VEN
-  count: 5
-- tag: Bulgaria
+  - AUT
+  count: 18
+- tag: Poland
   regions: !list
-  - BGR
-  count: 4
-- tag: Dominican Republic
+  - POL
+  count: 18
+- tag: Guatemala
   regions: !list
-  - DOM
-  count: 4
+  - GTM
+  count: 16
+- tag: Norway
+  regions: !list
+  - NOR
+  count: 16
+- tag: Thailand
+  regions: !list
+  - THA
+  count: 15
+- tag: United Arab Emirates
+  regions: !list
+  - ARE
+  count: 14
 - tag: Finland
   regions: !list
   - FIN
-  count: 4
+  count: 13
+- tag: Mauritius
+  regions: !list
+  - MUS
+  count: 13
+- tag: Philippines
+  regions: !list
+  - PHL
+  count: 13
+- tag: Uganda
+  regions: !list
+  - UGA
+  count: 13
+- tag: Panama
+  regions: !list
+  - PAN
+  count: 12
+- tag: Bulgaria
+  regions: !list
+  - BGR
+  count: 11
+- tag: Venezuela
+  regions: !list
+  - VEN
+  count: 10
+- tag: Puerto Rico
+  regions: !list
+  - PRI
+  count: 9
+- tag: Dominican Republic
+  regions: !list
+  - DOM
+  count: 7
 - tag: Ghana
   regions: !list
   - GHA
-  count: 4
-- tag: Nicaragua
+  count: 7
+- tag: Greece
   regions: !list
-  - NIC
-  count: 4
+  - GRC
+  count: 7
+- tag: Senegal
+  regions: !list
+  - SEN
+  count: 7
 - tag: Tanzania
   regions: !list
   - TZA
-  count: 4
+  count: 7
+- tag: Estonia
+  regions: !list
+  - EST
+  count: 6
+- tag: Romania
+  regions: !list
+  - ROU
+  count: 6
 - tag: Vietnam
   regions: !list
   - VNM
+  count: 6
+- tag: Hungary
+  regions: !list
+  - HUN
+  count: 5
+- tag: Madagascar
+  regions: !list
+  - MDG
+  count: 5
+- tag: Nicaragua
+  regions: !list
+  - NIC
+  count: 5
+- tag: Saudi Arabia
+  regions: !list
+  - SAU
+  count: 5
+- tag: Bolivia
+  regions: !list
+  - BOL
+  count: 4
+- tag: Cambodia
+  regions: !list
+  - KHM
+  count: 4
+- tag: Czech Republic
+  regions: !list
+  - CZE
+  count: 4
+- tag: Iceland
+  regions: !list
+  - ISL
+  count: 4
+- tag: Latvia
+  regions: !list
+  - LVA
+  count: 4
+- tag: Rwanda
+  regions: !list
+  - RWA
+  count: 4
+- tag: Slovenia
+  regions: !list
+  - SVN
+  count: 4
+- tag: Zambia
+  regions: !list
+  - ZMB
   count: 4
 - tag: Afghanistan
   regions: !list
   - AFG
   count: 3
-- tag: Bolivia
+- tag: Bangladesh
   regions: !list
-  - BOL
+  - BGD
   count: 3
-- tag: Czech Republic
+- tag: Egypt
   regions: !list
-  - CZE
+  - EGY
   count: 3
-- tag: Hungary
+- tag: Honduras
   regions: !list
-  - HUN
+  - HND
+  count: 3
+- tag: Jersey
+  regions: !list
+  - JEY
   count: 3
 - tag: Lebanon
   regions: !list
   - LBN
   count: 3
-- tag: Philippines
+- tag: Slovakia
   regions: !list
-  - PHL
-  count: 3
-- tag: Puerto Rico
-  regions: !list
-  - PRI
-  count: 3
-- tag: Rwanda
-  regions: !list
-  - RWA
-  count: 3
-- tag: Zambia
-  regions: !list
-  - ZMB
+  - SVK
   count: 3
 - tag: Bahamas The
   regions: !list
   - BHS
   count: 2
-- tag: Bangladesh
+- tag: Belize
   regions: !list
-  - BGD
+  - BLZ
   count: 2
-- tag: Egypt
+- tag: Benin
   regions: !list
-  - EGY
+  - BEN
   count: 2
-- tag: Greece
+- tag: Burkina Faso
   regions: !list
-  - GRC
+  - BFA
+  count: 2
+- tag: Cyprus
+  regions: !list
+  - CYP
+  count: 2
+- tag: Haiti
+  regions: !list
+  - HTI
+  count: 2
+- tag: Lithuania
+  regions: !list
+  - LTU
+  count: 2
+- tag: Malta
+  regions: !list
+  - MLT
   count: 2
 - tag: Mongolia
   regions: !list
   - MNG
   count: 2
+- tag: Morocco
+  regions: !list
+  - MAR
+  count: 2
 - tag: Mozambique
   regions: !list
   - MOZ
+  count: 2
+- tag: Myanmar
+  regions: !list
+  - MMR
+  count: 2
+- tag: Namibia
+  regions: !list
+  - NAM
+  count: 2
+- tag: Nigeria
+  regions: !list
+  - NGA
   count: 2
 - tag: Russia
   regions: !list
   - RUS
   count: 2
-- tag: Senegal
+- tag: Ukraine
   regions: !list
-  - SEN
+  - UKR
   count: 2
-- tag: United Arab Emirates
+- tag: Vanuatu
   regions: !list
-  - ARE
+  - VUT
   count: 2
-- tag: Belize
+- tag: Albania
   regions: !list
-  - BLZ
+  - ALB
   count: 1
-- tag: Benin
+- tag: Algeria
   regions: !list
-  - BEN
+  - DZA
   count: 1
-- tag: Burkina Faso
+- tag: Botswana
   regions: !list
-  - BFA
+  - BWA
   count: 1
-- tag: Cyprus
+- tag: Croatia (Hrvatska)
   regions: !list
-  - CYP
+  - HRV
   count: 1
-- tag: Honduras
+- tag: El Salvador
   regions: !list
-  - HND
+  - SLV
   count: 1
-- tag: Iceland
+- tag: Guernsey and Alderney
   regions: !list
-  - ISL
-  count: 1
-- tag: Jersey
-  regions: !list
-  - JEY
+  - GGY
   count: 1
 - tag: Liechtenstein
   regions: !list
   - LIE
   count: 1
-- tag: Malta
+- tag: Monaco
   regions: !list
-  - MLT
+  - MCO
   count: 1
-- tag: Myanmar
+- tag: Nepal
   regions: !list
-  - MMR
+  - NPL
   count: 1
-- tag: Nigeria
+- tag: Qatar
   regions: !list
-  - NGA
+  - QAT
   count: 1
-- tag: Pakistan
+- tag: Serbia
   regions: !list
-  - PAK
-  count: 1
-- tag: Saudi Arabia
-  regions: !list
-  - SAU
-  count: 1
-- tag: Slovakia
-  regions: !list
-  - SVK
-  count: 1
-- tag: Slovenia
-  regions: !list
-  - SVN
+  - SRB
   count: 1
 - tag: Sri Lanka
   regions: !list
   - LKA
-  count: 1
-- tag: Vanuatu
-  regions: !list
-  - VUT
   count: 1
