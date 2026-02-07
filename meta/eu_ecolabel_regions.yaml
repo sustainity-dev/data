@@ -2,51 +2,51 @@ countries:
 - tag: Italy
   regions: !list
   - ITA
-  count: 16546
+  count: 16724
 - tag: France
   regions: !list
   - FRA
-  count: 14434
+  count: 14438
 - tag: Portugal
   regions: !list
   - PRT
-  count: 8078
+  count: 8159
 - tag: Denmark
   regions: !list
   - DNK
-  count: 6778
+  count: 6855
 - tag: Czech Republic
   regions: !list
   - CZE
-  count: 5444
+  count: 5462
 - tag: Belgium
   regions: !list
   - BEL
-  count: 4788
+  count: 4789
 - tag: Poland
   regions: !list
   - POL
-  count: 4578
+  count: 4602
 - tag: Spain
   regions: !list
   - ESP
-  count: 3858
-- tag: Sweden
-  regions: !list
-  - SWE
-  count: 3413
+  count: 3869
 - tag: Germany
   regions: !list
   - DEU
-  count: 3351
+  count: 3651
+- tag: Sweden
+  regions: !list
+  - SWE
+  count: 3440
 - tag: Netherlands
   regions: !list
   - NLD
-  count: 2104
+  count: 2102
 - tag: Austria
   regions: !list
   - AUT
-  count: 1193
+  count: 1230
 - tag: Bangladesh
   regions: !list
   - BGD
@@ -54,7 +54,7 @@ countries:
 - tag: Estonia
   regions: !list
   - EST
-  count: 937
+  count: 943
 - tag: Indonesia
   regions: !list
   - IND
@@ -62,7 +62,7 @@ countries:
 - tag: Greece
   regions: !list
   - GRC
-  count: 431
+  count: 429
 - tag: Finland
   regions: !list
   - FIN
@@ -74,15 +74,19 @@ countries:
 - tag: United Kingdom of Great Britain and Northern Ireland
   regions: !list
   - GBR
-  count: 346
+  count: 347
+- tag: Switzerland
+  regions: !list
+  - CHE
+  count: 243
 - tag: Slovenia
   regions: !list
   - SVN
   count: 222
-- tag: Switzerland
+- tag: Pakistan
   regions: !list
-  - CHE
-  count: 221
+  - PAK
+  count: 201
 - tag: Norway
   regions: !list
   - NOR
@@ -90,11 +94,7 @@ countries:
 - tag: Romania
   regions: !list
   - ROU
-  count: 171
-- tag: Pakistan
-  regions: !list
-  - PAK
-  count: 160
+  count: 175
 - tag: Canada
   regions: !list
   - CAN
@@ -102,15 +102,15 @@ countries:
 - tag: Turkiye
   regions: !list
   - TUR
-  count: 151
-- tag: India
-  regions: !list
-  - IND
   count: 141
 - tag: Latvia
   regions: !list
   - LVA
   count: 140
+- tag: India
+  regions: !list
+  - IND
+  count: 139
 - tag: Morocco
   regions: !list
   - MAR
@@ -119,10 +119,6 @@ countries:
   regions: !list
   - BGR
   count: 101
-- tag: United States of America
-  regions: !list
-  - USA
-  count: 86
 - tag: Hungary
   regions: !list
   - HUN
@@ -134,7 +130,11 @@ countries:
 - tag: Russian Federation
   regions: !list
   - RUS
-  count: 57
+  count: 61
+- tag: United States of America
+  regions: !list
+  - USA
+  count: 35
 - tag: Luxembourg
   regions: !list
   - LUX
@@ -151,25 +151,25 @@ countries:
   regions: !list
   - SVK
   count: 15
+- tag: Singapore
+  regions: !list
+  - SGP
+  count: 13
 - tag: Malta
   regions: !list
   - MLT
   count: 12
-- tag: Singapore
-  regions: !list
-  - SGP
-  count: 9
 - tag: China
   regions: !list
   - CHN
   count: 7
-- tag: Montenegro
-  regions: !list
-  - MNE
-  count: 7
 - tag: Ireland
   regions: !list
   - IRL
+  count: 6
+- tag: Montenegro
+  regions: !list
+  - MNE
   count: 6
 - tag: Ukraine
   regions: !list
